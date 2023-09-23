@@ -24,7 +24,7 @@ Work experience
   * Johns Hopkins University, University of California Santa Cruz
   * Research: MAE pre-training with multi-view mechanism in medical image.
 
-* Mar 2022 - Aug 2022: Research Intern. Supervisor: Dr. [Le Lu](https://lelu007.github.io), Dr. [Dakai Jin](https://dakjin.github.io/), Dr. [Puyang Wang](https://scholar.google.com/citations?hl=en&user=56aDx7AAAAAJ)
+* Mar 2022 - Aug 2022: Research Intern. Supervisor: Dr. [Le Lu](https://www.cs.jhu.edu/~lelu/), Dr. [Dakai Jin](https://dakjin.github.io/), Dr. [Puyang Wang](https://scholar.google.com/citations?hl=en&user=56aDx7AAAAAJ)
   * Alibaba DAMO Academy
   * Research: Multi-modality radiotherapy target volume segmentation and organ segmentation.
   
