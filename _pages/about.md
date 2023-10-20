@@ -21,7 +21,7 @@ Recent News
 * <span class='emoji'>🔥</span> [May 2023] Two papers ([SwinMM](https://github.com/UCSC-VLAA/SwinMM), [CorSegRec](https://link.springer.com/chapter/10.1007/978-3-031-43898-1_64)) are accepted by [MICCAI 2023](https://conferences.miccai.org/2023/en/) as Oral Presentation.
 * [May 2023] One paper is accepted by [IEEE Transactions on Neural Networks and Learning Systems (TNNLS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385).
 * [May 2023] Awarded the Conference Presentation Award for Graduate Students by UIUC!
-* [February 2023] Congrats to Dandan! Our Work [C2FVL](https://github.com/HUANGLIZI/C2FVL) is accepted by [ICASSP 2023](https://2023.ieeeicassp.org/).
+* [February 2023] Our Work [C2FVL](https://github.com/HUANGLIZI/C2FVL) is accepted by [ICASSP 2023](https://2023.ieeeicassp.org/).
 
 My work and research
 ======
