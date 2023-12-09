@@ -12,6 +12,8 @@ Hi! I’m Zihan, a first-year Ph.D. student at [University of Washington](https:
 
 My research focuses on Large Multimodal Model (LMM) including vision-language model, self-supervised learning, and medical image analysis. I am committed to helping doctors or researchers carry out quantitative analysis and treatment planning for tissues and organs of the human body by combining deep learning with medical images.
 
+**Actively looking for 2024 Summer Internship, I'd be delighted to engage in further conversation if you are interested.**
+
 Recent News
 ======
 * <span class='emoji'>🔥</span> [Aug 2023] Our work [ScribbleVC](https://github.com/HUANGLIZI/ScribbleVC) is accepted by [ACM MM 2023](https://www.acmmm2023.org/).
