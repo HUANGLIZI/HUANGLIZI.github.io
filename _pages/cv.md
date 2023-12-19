@@ -40,7 +40,6 @@ Service and leadership
 ======
 * Conference Reviewer: ICCV 2023; ICASSP 2024, 2023; MICCAI 2023; ICIG 2023; AAAI 2022; ACM MM 2022
 * Journal Reviewer: IEEE TPAMI; IEEE TMI; Computers in Biology and Medicine; Machine Vision And Applications
-* Guest Speaker: Study Abroad Foundation (SAF), MIT Blended Learning Program
 
 Honors and Awards
 ======
@@ -50,13 +49,13 @@ Honors and Awards
 * NongXin scholarship of Xiamen University (2%) 2020
 * Mathematical Contest in Modeling Meritorious (5%) 2019
 
-<!--Talks
+Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+Dec 2020, at [Study Abroad Foundation (SAF) China](https://www.studyabroadfoundation.org/)
+May 2021, at [MIT Blended Learning Program](https://openlearning.mit.edu/courses-programs/mit-xpro)
+Dec 2023, _Semi/Self-supervised Learning with Limited Annotations in Medical Image Analysis_ at [CCVL@JHU](https://ccvl.jhu.edu/)
   
-Teaching
+<!--Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
