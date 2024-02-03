@@ -16,7 +16,7 @@ My research focuses on Large Multimodal Model (LMM) including vision-language mo
 
 Recent News
 ======
-* <span class='emoji'>🔥</span> [Feb 2024] Our work [ScribFormer](https://github.com/HUANGLIZI/ScribFormer) is accepted by [IEEE Transactions on Medical Imaging](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42). 
+* <span class='emoji'>🔥</span> [Feb 2024] Our work [ScribFormer](https://github.com/HUANGLIZI/ScribFormer) is accepted by [IEEE TMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42).
 * <span class='emoji'>🔥</span> [Aug 2023] Our work [ScribbleVC](https://github.com/HUANGLIZI/ScribbleVC) is accepted by [ACM MM 2023](https://www.acmmm2023.org/).
 * <span class='emoji'>🔥</span> [July 2023] One papers [NeRCo](https://arxiv.org/abs/2303.11722) is accepted by [ICCV 2023](https://iccv2023.thecvf.com/).
 * <span class='emoji'>🔥</span> [June 2023] Our work [LViT](https://github.com/HUANGLIZI/LViT) is accepted by [IEEE Transactions on Medical Imaging (TMI)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42).
