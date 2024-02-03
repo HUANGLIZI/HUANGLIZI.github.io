@@ -16,12 +16,13 @@ My research focuses on Large Multimodal Model (LMM) including vision-language mo
 
 Recent News
 ======
+* <span class='emoji'>🔥</span> [Feb 2024] Our work [ScribFormer](https://github.com/HUANGLIZI/ScribFormer) is accepted by [IEEE Transactions on Medical Imaging (TMI)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42).
 * <span class='emoji'>🔥</span> [Aug 2023] Our work [ScribbleVC](https://github.com/HUANGLIZI/ScribbleVC) is accepted by [ACM MM 2023](https://www.acmmm2023.org/).
-* <span class='emoji'>🔥</span> [July 2023] One papers is accepted by [ICCV 2023](https://iccv2023.thecvf.com/).
+* <span class='emoji'>🔥</span> [July 2023] One papers [NeRCo](https://arxiv.org/abs/2303.11722) is accepted by [ICCV 2023](https://iccv2023.thecvf.com/).
 * <span class='emoji'>🔥</span> [June 2023] Our work [LViT](https://github.com/HUANGLIZI/LViT) is accepted by [IEEE Transactions on Medical Imaging (TMI)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42).
-* <span class='emoji'>🔥</span> [May 2023] We release the first Medical LLM [ChatDoctor](https://github.com/kent0n-li/chatdoctor) and its [huggingface repo](https://huggingface.co/zl111/ChatDoctor).
-* <span class='emoji'>🔥</span> [May 2023] Two papers ([SwinMM](https://github.com/UCSC-VLAA/SwinMM), [CorSegRec](https://link.springer.com/chapter/10.1007/978-3-031-43898-1_64)) are accepted by [MICCAI 2023](https://conferences.miccai.org/2023/en/) as Oral Presentation.
-* [May 2023] One paper is accepted by [IEEE Transactions on Neural Networks and Learning Systems (TNNLS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385).
+* [May 2023] We release the first Medical LLM [ChatDoctor](https://github.com/kent0n-li/chatdoctor) and its [huggingface repo](https://huggingface.co/zl111/ChatDoctor).
+* [May 2023] Two papers ([SwinMM](https://github.com/UCSC-VLAA/SwinMM), [CorSegRec](https://link.springer.com/chapter/10.1007/978-3-031-43898-1_64)) are accepted by [MICCAI 2023](https://conferences.miccai.org/2023/en/) as Oral Presentation.
+* [May 2023] One paper [DTDF-HFF](https://ieeexplore.ieee.org/abstract/document/10145798) is accepted by [IEEE Transactions on Neural Networks and Learning Systems (TNNLS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385).
 * [May 2023] Awarded the Conference Presentation Award for Graduate Students by UIUC!
 * [February 2023] Our Work [C2FVL](https://github.com/HUANGLIZI/C2FVL) is accepted by [ICASSP 2023](https://2023.ieeeicassp.org/).
 
