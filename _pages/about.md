@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! I’m Zihan, a first-year Ph.D. student at [University of Washington](https://www.washington.edu/), Seattle, advised by Prof. [Paul Kinahan](https://rad.washington.edu/radiology-personnel/kinahan/) (IEEE Life Fellow, FAAPM, FSNMMI, FAIMBE). And I received my Master degree from the [Department of Computer Science](https://cs.illinois.edu/), [UIUC](https://illinois.edu/) in 2023. 
 
-My research focuses on Large Multimodal Model (LMM) including vision-language model, self-supervised learning, and medical image analysis. I am committed to helping doctors or researchers carry out quantitative analysis and treatment planning for tissues and organs of the human body by combining deep learning with medical images.
+My research focuses on the Multimodal Large Language Model (MLLM) including the vision-language model, self-supervised learning, and medical image analysis. I am committed to helping doctors or researchers carry out quantitative analysis and treatment planning for tissues and organs of the human body by combining deep learning with medical images.
 
 <!--**Actively looking for 2024 Summer Internship, I'd be delighted to engage in further conversation if you are interested.**-->
 
@@ -28,7 +28,7 @@ Recent News
 
 My work and research
 ======
-My current works focus on the multimodal learning, including natural language and radiology reports. At the same time, I pay attention to the corner case datasets to alleviate AI for Underrepresentation in medical field. I have participated in multiple internships in both academia and industry. I have worked as a research intern at the [University of Cambridge](https://www.cam.ac.uk/), [Johns Hopkins University](https://www.jhu.edu/) and [Peking University](https://english.pku.edu.cn/), as well as at [Alibaba DAMO Academy](https://damo.alibaba.com/?lang=en) and [Shanghai AI Laboratory](https://www.shlab.org.cn/). Several respected professors have guided my research, including Prof. [Alan L. Yuille](https://www.cs.jhu.edu/~ayuille/), Prof. [Pietro Liò](https://www.cl.cam.ac.uk/~pl219/), Prof. [Dinggang Shen](https://scholar.google.com/citations?user=v6VYQC8AAAAJ&hl=EN), Prof. [Jie Tian](http://www.mitk.net.cn/tian/), Prof. [Yu Qiao](https://scholar.google.com/citations?user=gFtI-8QAAAAJ), Dr. [Le Lu](https://www.cs.jhu.edu/~lelu/), and I have collaborated with them on many works.
+My current works focus on multimodal learning, including natural language and radiology reports. At the same time, I pay attention to the corner case datasets to alleviate AI Underrepresentation in the medical field. I have participated in multiple internships in both academia and industry. I have worked as a research intern at the [University of Cambridge](https://www.cam.ac.uk/), [Johns Hopkins University](https://www.jhu.edu/), and [Peking University](https://english.pku.edu.cn/), as well as at [Alibaba DAMO Academy](https://damo.alibaba.com/?lang=en) and [Shanghai AI Laboratory](https://www.shlab.org.cn/). I have worked closely with several respected professors including Prof. [Alan L. Yuille](https://www.cs.jhu.edu/~ayuille/), Prof. [Pietro Liò](https://www.cl.cam.ac.uk/~pl219/), Prof. [Dinggang Shen](https://scholar.google.com/citations?user=v6VYQC8AAAAJ&hl=EN), Prof. [Jie Tian](http://www.mitk.net.cn/tian/), Prof. [Yu Qiao](https://scholar.google.com/citations?user=gFtI-8QAAAAJ), and Dr. [Le Lu](https://www.cs.jhu.edu/~lelu/).
 
 My background and history
 ======
