@@ -49,7 +49,6 @@ Honors and Awards
 * National Scholarship of China (1%) 2020, 2021
 * Pacemaker to Merit Student of Xiamen University (1%) 2020
 * NongXin scholarship of Xiamen University (2%) 2020
-* Mathematical Contest in Modeling Meritorious (5%) 2019
 
 Talks
 ======
