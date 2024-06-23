@@ -10,7 +10,7 @@ author_profile: true
 You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?hl=en&user=KoY6bW8AAAAJ) or [Semantic Scholar](https://www.semanticscholar.org/author/Zihan-Li/2118273929) profile.
 
 **2024**
-* [C1] Xiangde Luo\*, Zihan Li\*, Shaoting Zhang, Wenjun Liao, Guotai Wang. Rethinking Abdominal Organ Segmentation (RAOS) in the clinical scenario: A robustness evaluation benchmark with challenging cases. MICCAI 2024. [Early Accept](https://arxiv.org/abs/2406.13674)
+* [C1] Xiangde Luo\*, **Zihan Li\***, Shaoting Zhang, Wenjun Liao, Guotai Wang. Rethinking Abdominal Organ Segmentation (RAOS) in the clinical scenario: A robustness evaluation benchmark with challenging cases. MICCAI 2024. [Early Accept](https://arxiv.org/abs/2406.13674)
 * [J1] **Zihan Li**, Yuan Zheng, Dandan Shan, Shuzhou Yang, Qingde Li, Beizhan Wang, Yuanting Zhang, Qingqi Hong, Dinggang Shen. ScribFormer: Transformer Makes CNN Work Better for Scribble-based Medical Image Segmentation. IEEE Transactions on Medical Imaging. (2024 IF: 10.6) [Paper](https://www.researchgate.net/publication/377930252_ScribFormer_Transformer_Makes_CNN_Work_Better_for_Scribble-based_Medical_Image_Segmentation)
 
 **2023**
