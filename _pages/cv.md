@@ -16,6 +16,9 @@ Education
 
 Work experience
 ======
+* Sept 2023 - Now: Research Intern. Supervisor: Prof. [Paul Kinahan](https://scholar.google.com/citations?user=XXXSsTkAAAAJ)
+  * UW [Imaging Research Lab](http://depts.washington.edu/imreslab/)
+
 * June 2023 - Sept 2023: Research Intern. Supervisor: Prof. [Yu Qiao](https://scholar.google.com/citations?user=gFtI-8QAAAAJ), Dr. [Diping Song](https://www.semanticscholar.org/author/Diping-Song/27062648/)
   * Shanghai AI Laboratory
   * Research: Large Multimodal Model (LMM) for medical image and diagnostic report.
@@ -24,15 +27,15 @@ Work experience
   * Johns Hopkins University, University of California Santa Cruz
   * Research: MAE pre-training with the multi-view mechanism in medical images.
 
-* Mar 2022 - Aug 2022: Research Intern. Supervisor: Dr. [Le Lu](https://www.cs.jhu.edu/~lelu/), Dr. [Dakai Jin](https://dakjin.github.io/), Dr. [Puyang Wang](https://scholar.google.com/citations?hl=en&user=56aDx7AAAAAJ)
+* Mar 2022 - Aug 2022: Research Intern. Supervisor: Dr. [Le Lu](https://www.cs.jhu.edu/~lelu/), Dr. [Dakai Jin](https://dakjin.github.io/)
   * Alibaba DAMO Academy
   * Research: Multi-modality radiotherapy target volume segmentation and organ segmentation.
   
-* May 2021 - Sept 2021: Research Intern. Supervisor: Prof. [Jie Chen](https://scholar.google.com.hk/citations?hl=EN&user=ZAZFfwwAAAAJ), Dr. [Hongliang He](https://scholar.google.com.hk/citations?hl=en&user=jJWS4VYAAAAJ)
+* May 2021 - Sept 2021: Research Intern. Supervisor: Prof. [Jie Chen](https://scholar.google.com.hk/citations?hl=EN&user=ZAZFfwwAAAAJ)
   * Peking University
   * Research: Hybrid attention mechanism and mix-focal loss improvement.
 
-* Aug 2020 - Nov 2020: Research Intern. Supervisor: Prof. [Pietro Liò](https://www.cl.cam.ac.uk/~pl219/), Dr. [Tudor Suciu](https://www.linkedin.com/in/tudor-suciu/)
+* Aug 2020 - Nov 2020: Research Intern. Supervisor: Prof. [Pietro Liò](https://www.cl.cam.ac.uk/~pl219/)
   * University of Cambridge
   * Research: Automatic segmentation and detection model for pulmonary infection in X-ray images.
 
