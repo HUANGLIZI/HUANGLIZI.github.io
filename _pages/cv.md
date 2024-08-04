@@ -16,8 +16,9 @@ Education
 
 Work experience
 ======
-* Sept 2023 - Now: Research Intern. Supervisor: Prof. [Paul Kinahan](https://scholar.google.com/citations?user=XXXSsTkAAAAJ)
-  * UW [Imaging Research Lab](http://depts.washington.edu/imreslab/)
+* Sept 2023 - Now: Research Assistant. Supervisor: Prof. [Paul Kinahan](https://scholar.google.com/citations?user=XXXSsTkAAAAJ)
+  * UW Medicine [Imaging Research Lab](http://depts.washington.edu/imreslab/)
+  * Research: Foundation Model and AI-Driven Data Harmonization.
 
 * June 2023 - Sept 2023: Research Intern. Supervisor: Prof. [Yu Qiao](https://scholar.google.com/citations?user=gFtI-8QAAAAJ), Dr. [Diping Song](https://www.semanticscholar.org/author/Diping-Song/27062648/)
   * Shanghai AI Laboratory
