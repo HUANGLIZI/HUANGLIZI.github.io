@@ -23,18 +23,18 @@ Work experience
 * June 2023 - Sept 2023: Research Intern. Supervisor: Prof. [Yu Qiao](https://scholar.google.com/citations?user=gFtI-8QAAAAJ), Dr. [Diping Song](https://www.semanticscholar.org/author/Diping-Song/27062648/)
   * Shanghai AI Laboratory
   * Research: Large Multimodal Model (LMM) for medical image and diagnostic report.
-<!--
-* Aug 2022 - Nov 2022: Visiting Student. Supervisor: Prof. [Alan L. Yuille](https://www.cs.jhu.edu/~ayuille/), Prof. [Yuyin Zhou](https://yuyinzhou.github.io/), Prof. [Cihang Xie](https://cihangxie.github.io/)
-  * Johns Hopkins University, University of California Santa Cruz
-  * Research: MAE pre-training with the multi-view mechanism in medical images.-->
+
+<!-- * Aug 2022 - Nov 2022: Visiting Student. Supervisor: Prof. [Alan L. Yuille](https://www.cs.jhu.edu/~ayuille/), Prof. [Yuyin Zhou](https://yuyinzhou.github.io/), Prof. [Cihang Xie](https://cihangxie.github.io/) -->
+<!--  * Johns Hopkins University, University of California Santa Cruz -->
+<!-- * Research: MAE pre-training with the multi-view mechanism in medical images.-->
 
 * Mar 2022 - Aug 2022: Research Intern. Supervisor: Dr. [Le Lu](https://www.cs.jhu.edu/~lelu/), Dr. [Dakai Jin](https://dakjin.github.io/)
   * Alibaba DAMO Academy
   * Research: Multi-modality radiotherapy target volume segmentation and organ segmentation.
-<!--  
-* May 2021 - Sept 2021: Research Intern. Supervisor: Prof. [Jie Chen](https://scholar.google.com.hk/citations?hl=EN&user=ZAZFfwwAAAAJ)
-  * Peking University
-  * Research: Hybrid attention mechanism and mix-focal loss improvement.-->
+ 
+<!-- * May 2021 - Sept 2021: Research Intern. Supervisor: Prof. [Jie Chen](https://scholar.google.com.hk/citations?hl=EN&user=ZAZFfwwAAAAJ) -->
+<!--   * Peking University -->
+<!--   * Research: Hybrid attention mechanism and mix-focal loss improvement.-->
 
 * Aug 2020 - Nov 2020: Research Intern. Supervisor: Prof. [Pietro Liò](https://www.cl.cam.ac.uk/~pl219/)
   * University of Cambridge
