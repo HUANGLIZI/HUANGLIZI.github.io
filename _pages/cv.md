@@ -42,7 +42,7 @@ Work experience
 
 Service and leadership
 ======
-* Conference Reviewer: ECCV 2024; ICCV 2023; ICASSP 2024, 2023; MICCAI 2024, 2023; ICIG 2023; AAAI 2022; ACM MM 2024, 2022
+* Conference Reviewer: ECCV 2024; ICCV 2023; ICASSP 2023-2025; MICCAI 2024, 2023; ICIG 2023; AAAI 2022; ACM MM 2024, 2022
 * Journal Reviewer: IEEE TPAMI; IEEE TMI; Radiology; Pattern Recognition; CIBM; Machine Vision and Applications
 * Review Editor: Frontiers in Neuroinformatics
 * Membership: ACM Member, AAPM Student Member
