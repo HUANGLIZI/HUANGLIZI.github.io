@@ -15,7 +15,7 @@ My research focuses on the Multimodal Large Language Model including the vision-
 
 Recent News
 ======
-* <span class='emoji'>🔥</span> [Aug 2024] One paper is accepted by [IEEE Transactions on Fuzzy Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=91).
+* <span class='emoji'>🔥</span> [Aug 2024] One [paper](https://ieeexplore.ieee.org/document/10643360) is accepted by [IEEE Transactions on Fuzzy Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=91).
 * <span class='emoji'>🔥</span> [May 2024] Our work [RAOS](https://arxiv.org/abs/2406.13674) is early accepted by [MICCAI 2024](https://conferences.miccai.org/2024/en/).
 * <span class='emoji'>🔥</span> [Apr 2024] One [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11097892/) is accepted by [Journal for ImmunoTherapy of Cancer](https://jitc.bmj.com/).
 * <span class='emoji'>🔥</span> [Feb 2024] Our work [ScribFormer](https://github.com/HUANGLIZI/ScribFormer) is accepted by [IEEE TMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42).
