@@ -20,7 +20,7 @@ Work experience
   * UW Medicine [Imaging Research Lab](http://depts.washington.edu/imreslab/)
   * Research: Foundation Model and AI-Driven Data Harmonization.
 
-* June 2023 - Sept 2023: Research Intern. Supervisor: Prof. [Yu Qiao](https://scholar.google.com/citations?user=gFtI-8QAAAAJ), Dr. [Diping Song](https://www.semanticscholar.org/author/Diping-Song/27062648/)
+* June 2023 - Sept 2023: Research Intern. Supervisor: Prof. [Yu Qiao](https://scholar.google.com/citations?user=gFtI-8QAAAAJ)
   * Shanghai AI Laboratory
   * Research: Large Multimodal Model (LMM) for medical image and diagnostic report.
 
