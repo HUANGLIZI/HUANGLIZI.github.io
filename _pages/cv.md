@@ -49,6 +49,7 @@ Service and leadership
 
 Honors and Awards
 ======
+* IEEE TMI Distinguished Reviewer Bronze Level 2023 – 2024
 * UIUC Conference Presentation Award 2023
 * National Scholarship of China (0.2%) 2020, 2021
 * Pacemaker to Merit Student of Xiamen University (1%) 2020
