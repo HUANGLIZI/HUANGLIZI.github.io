@@ -15,11 +15,12 @@ My research focuses on the Multimodal Large Language Model including the vision-
 
 Recent News
 ======
+* <span class='emoji'>🔥</span> [Dec 2024] Our work ICTC is accepted by [ICASSP 2025](https://2025.ieeeicassp.org/).
 * <span class='emoji'>🔥</span> [Oct 2024] One [paper](https://arxiv.org/abs/2309.16967) is accepted by [Medical Physics](https://aapm.onlinelibrary.wiley.com/journal/24734209/journal-metrics).
 * <span class='emoji'>🔥</span> [Aug 2024] One [paper](https://ieeexplore.ieee.org/document/10643360) is accepted by [IEEE Transactions on Fuzzy Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=91).
 * <span class='emoji'>🔥</span> [May 2024] Our work [RAOS](https://arxiv.org/abs/2406.13674) is early accepted by [MICCAI 2024](https://conferences.miccai.org/2024/en/).
 * <span class='emoji'>🔥</span> [Apr 2024] One [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11097892/) is accepted by [Journal for ImmunoTherapy of Cancer](https://jitc.bmj.com/).
-* <span class='emoji'>🔥</span> [Feb 2024] Our work [ScribFormer](https://github.com/HUANGLIZI/ScribFormer) is accepted by [IEEE TMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42).
+* [Feb 2024] Our work [ScribFormer](https://github.com/HUANGLIZI/ScribFormer) is accepted by [IEEE TMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42).
 * [Aug 2023] Our work [ScribbleVC](https://github.com/HUANGLIZI/ScribbleVC) is accepted by [ACM MM 2023](https://www.acmmm2023.org/).
 * [July 2023] One paper [NeRCo](https://arxiv.org/abs/2303.11722) is accepted by [ICCV 2023](https://iccv2023.thecvf.com/).
 * [June 2023] Our work [LViT](https://github.com/HUANGLIZI/LViT) is accepted by [IEEE Transactions on Medical Imaging (TMI)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42).
@@ -27,7 +28,7 @@ Recent News
 * [May 2023] Two papers ([SwinMM](https://github.com/UCSC-VLAA/SwinMM), [CorSegRec](https://link.springer.com/chapter/10.1007/978-3-031-43898-1_64)) are accepted by [MICCAI 2023](https://conferences.miccai.org/2023/en/) as Oral Presentation.
 * [May 2023] One paper [DTDF-HFF](https://ieeexplore.ieee.org/abstract/document/10145798) is accepted by [IEEE Transactions on Neural Networks and Learning Systems (TNNLS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385).
 * [May 2023] Awarded the Conference Presentation Award for Graduate Students by UIUC!
-* [February 2023] Our Work [C2FVL](https://github.com/HUANGLIZI/C2FVL) is accepted by [ICASSP 2023](https://2023.ieeeicassp.org/).
+<!-- * [February 2023] Our Work [C2FVL](https://github.com/HUANGLIZI/C2FVL) is accepted by [ICASSP 2023](https://2023.ieeeicassp.org/).-->
 
 My work and research
 ======
