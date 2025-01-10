@@ -42,8 +42,8 @@ Work experience
 
 Service and leadership
 ======
-* Conference Reviewer: ICLR 2025; IJCAI 2025; AISTATS 2025; ISBI 2025; ECCV 2024; ICCV 2023; ICASSP 2023-2025; MICCAI 2023-2025; ACM MM 2022-2024; IJCNN 2025; ICIG 2023; AAAI 2022
-* Journal Reviewer: IEEE TPAMI; IEEE TMI; ACM TIST; Radiology; Medical Image Analysis; Pattern Recognition; Neural Networks; Scientific Reports; Neurocomputing; Machine Vision and Applications; Expert Systems With Applications; Artificial Intelligence In Medicine; Pattern Recognition Letter; Image and Vision Computing; EAAI; CVIU; CIBM; JMIR
+* Conference Reviewer: ICLR 2025; IJCAI 2025; AISTATS 2025; ISBI 2025; IJCNN 2025; ECCV 2024; ICCV 2023; ICASSP 2023-2025; MICCAI 2023-2025; ACM MM 2022-2024; ICIG 2023; AAAI 2022
+* Journal Reviewer: IEEE TPAMI; IEEE TMI; IEEE TNNLS; ACM TIST; Radiology; Medical Image Analysis; Pattern Recognition; Neural Networks; Scientific Reports; Neurocomputing; Machine Vision and Applications; Expert Systems With Applications; Artificial Intelligence In Medicine; Pattern Recognition Letter; Image and Vision Computing; EAAI; CVIU; CIBM; JMIR
 * Review Editor: Frontiers in Neuroinformatics
 * Membership: ACM Member, SIIM Member, AAPM Student Member
 
