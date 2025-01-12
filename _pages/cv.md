@@ -24,10 +24,6 @@ Work experience
   * Shanghai AI Laboratory
   * Research: Large Multimodal Model (LMM) for medical image and diagnostic report.
 
-<!-- * Aug 2022 - Nov 2022: Visiting Student. Supervisor: Prof. [Alan L. Yuille](https://www.cs.jhu.edu/~ayuille/), Prof. [Yuyin Zhou](https://yuyinzhou.github.io/), Prof. [Cihang Xie](https://cihangxie.github.io/) -->
-<!--  * Johns Hopkins University, University of California Santa Cruz -->
-<!-- * Research: MAE pre-training with the multi-view mechanism in medical images.-->
-
 * Mar 2022 - Aug 2022: Research Intern. Supervisor: Dr. [Le Lu](https://www.cs.jhu.edu/~lelu/), Dr. [Dakai Jin](https://dakjin.github.io/)
   * Alibaba DAMO Academy
   * Research: Multi-modality radiotherapy target volume segmentation and organ segmentation.
@@ -40,10 +36,14 @@ Work experience
   * University of Cambridge
   * Research: Automatic segmentation and detection model for pulmonary infection in X-ray images.
 
+* Aug 2022 - Nov 2022: Visiting Student. Supervisor: Prof. [Alan L. Yuille](https://www.cs.jhu.edu/~ayuille/), Prof. [Yuyin Zhou](https://yuyinzhou.github.io/), Prof. [Cihang Xie](https://cihangxie.github.io/)
+  * Johns Hopkins University, University of California Santa Cruz
+  * Research: MAE pre-training with the multi-view mechanism in images.
+
 Service and leadership
 ======
 * Conference Reviewer: ICLR 2025; IJCAI 2025; AISTATS 2025; ISBI 2025; IJCNN 2025; ECCV 2024; ICCV 2023; ICASSP 2023-2025; MICCAI 2023-2025; ACM MM 2022-2024; ICIG 2023; AAAI 2022
-* Journal Reviewer: IEEE TPAMI; IEEE TMI; IEEE TNNLS; ACM TIST; Radiology; Medical Image Analysis; Pattern Recognition; Neural Networks; Scientific Reports; Neurocomputing; Machine Vision and Applications; Expert Systems With Applications; Artificial Intelligence In Medicine; Pattern Recognition Letter; Image and Vision Computing; EAAI; CVIU; CIBM; JMIR
+* Journal Reviewer: IEEE TPAMI; IEEE TMI; IEEE TNNLS; ACM TIST; Radiology; Medical Image Analysis; Pattern Recognition; Neural Networks; Scientific Reports; Neurocomputing; Machine Vision and Applications; Expert Systems With Applications; Artificial Intelligence In Medicine; Pattern Recognition Letter; Image and Vision Computing; EAAI; CVIU; CIBM; JMIR; IEEE SPL
 * Review Editor: Frontiers in Neuroinformatics
 * Membership: ACM Member, SIIM Member, AAPM Student Member
 
