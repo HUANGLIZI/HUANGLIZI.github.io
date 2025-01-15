@@ -9,17 +9,18 @@ author_profile: true
 {% endif %}
 You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?hl=en&user=KoY6bW8AAAAJ) or [Semantic Scholar](https://www.semanticscholar.org/author/Zihan-Li/2118273929) profile.
 
+**2025**
+* [C1] Ziheng Zhang\*, **Zihan Li\***, Dandan Shan, Yuehui Qiu, Qingqi Hong, Qingqiang Wu. An Intra- and Cross-frame Topological Consistency Scheme for Semi-supervised Atherosclerotic Coronary Plaque Segmentation. ICASSP 2025. [Paper](https://arxiv.org/abs/2501.07850)
+  
 **2024**
 * [C1] Xiangde Luo\*, **Zihan Li\***, Shaoting Zhang, Wenjun Liao, Guotai Wang. Rethinking Abdominal Organ Segmentation (RAOS) in the clinical scenario: A robustness evaluation benchmark with challenging cases. MICCAI 2024. [Early Accept](https://arxiv.org/abs/2406.13674)
-* [C2] Ziheng Zhang\*, **Zihan Li\***, Dandan Shan, Yuehui Qiu, Qingqi Hong, Qingqiang Wu. An Intra- and Cross-frame Topological Consistency Scheme for Semi-supervised Atherosclerotic Coronary Plaque Segmentation. ICASSP 2025.
-* [J1] **Zihan Li**, Yuan Zheng, Dandan Shan, Shuzhou Yang, Qingde Li, Beizhan Wang, Yuanting Zhang, Qingqi Hong, Dinggang Shen. ScribFormer: Transformer Makes CNN Work Better for Scribble-based Medical Image Segmentation. IEEE Transactions on Medical Imaging. (2024 IF: 10.6) [Paper](https://www.researchgate.net/publication/377930252_ScribFormer_Transformer_Makes_CNN_Work_Better_for_Scribble-based_Medical_Image_Segmentation)
+* [J1] **Zihan Li**, Yuan Zheng, Dandan Shan, Shuzhou Yang, Qingde Li, Beizhan Wang, Yuanting Zhang, Qingqi Hong, Dinggang Shen. ScribFormer: Transformer Makes CNN Work Better for Scribble-based Medical Image Segmentation. IEEE Transactions on Medical Imaging. (2024 IF: 10.6) [Paper](https://arxiv.org/abs/2402.02029)
 
 **2023**
 * [C1] **Zihan Li**, Yuan Zheng, Xiangde Luo, Dandan Shan, Qingqi Hong. ScribbleVC: Scribble-supervised Medical Image Segmentation with Vision-Class Embedding. Proceedings of the 31st ACM International Conference on Multimedia (ACM MM) 2023. [Paper](https://arxiv.org/abs/2307.16226)
 * [C2] Dandan Shan\*, **Zihan Li\***, Wentao Chen, Qingde Li, Jie Tian, Qingqi Hong. Coarse-to-Fine Covid-19 Segmentation via Vision-Language Alignment. ICASSP 2023. [Paper](https://arxiv.org/abs/2303.00279)
 * [C3] Yiqing Wang\*, **Zihan Li\***, Jieru Mei\*, Zihao Wei\*, Li Liu, Chen Wang, Alan Yuille, Shengtian Sang, Cihang Xie, Yuyin Zhou. SwinMM: Masked Multi-view with Swin Transformers for 3D Medical Image Segmentation. MICCAI 2023 [Oral](https://arxiv.org/abs/2307.12591).
 * [C4] Yuehui Qiu, **Zihan Li**, Yining Wang, Pei Dong, Dijia Wu, Qingqi Hong, Dinggang Shen. CorSegRec: A Topology-Preserving Scheme for Extracting Fully-Connected Coronary Arteries from CT Angiography. MICCAI 2023 [Oral, Best Paper Finalist](https://link.springer.com/chapter/10.1007/978-3-031-43898-1_64).
-* [C5] Shuzhou Yang, Moxuan Ding, Yanmin Wu, **Zihan Li**, Jian Zhang. Implicit Neural Representation for Cooperative Low-light Image Enhancement. IEEE International Conference on Computer Vision (ICCV) 2023. [Paper](https://arxiv.org/abs/2303.11722)
 * [J1] **Zihan Li**, Yunxiang Li, Qingde Li, Puyang Wang, Dazhou Guo, Le Lu, Dakai Jin, et al. LViT: language meets vision transformer in medical image segmentation. IEEE Transactions on Medical Imaging. (2023 IF: 11.037) [Paper](https://arxiv.org/abs/2206.14718)
 * [J2] Yunxiang Li, **Zihan Li**, Kai Zhang, Ruilong Dan, You Zhang. ChatDoctor: A Medical Chat Model Fine-tuned on LLaMA Model using Medical Domain Knowledge. Cureus. [Paper](https://arxiv.org/abs/2303.14070)
 
