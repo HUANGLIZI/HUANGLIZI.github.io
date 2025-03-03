@@ -43,7 +43,7 @@ Work experience
 Service and leadership
 ======
 * Conference Reviewer: ICLR 2025; IJCAI 2025; AISTATS 2025; ISBI 2025; IJCNN 2025; ECCV 2024; ICCV 2023; ICASSP 2023-2025; MICCAI 2023-2025; ACM MM 2022-2024; ICIG 2023; AAAI 2022
-* Journal Reviewer: IEEE TPAMI; IEEE TMI; IEEE TNNLS; ACM TIST; Radiology; Medical Image Analysis; Pattern Recognition; Neural Networks; Scientific Reports; Neurocomputing; Machine Vision and Applications; Expert Systems With Applications; Artificial Intelligence In Medicine; Pattern Recognition Letter; Image and Vision Computing; EAAI; CVIU; CIBM; JMIR; IEEE SPL
+* Journal Reviewer: IEEE TPAMI; IEEE TMI; IEEE TNNLS; ACM TIST; Radiology; Medical Image Analysis; Pattern Recognition; Neural Networks; Scientific Reports; Neurocomputing; Machine Vision and Applications; Expert Systems With Applications; Artificial Intelligence In Medicine; Pattern Recognition Letter; Image and Vision Computing; EAAI; CVIU; CIBM; JMIR; IEEE SPL; BSPC
 * Review Editor: Frontiers in Neuroinformatics
 * Membership: ACM Member, SIIM Member, AAPM Student Member
 
@@ -57,9 +57,10 @@ Honors and Awards
 
 Talks
 ======
+* Feb 2025, _NLPs, new tools, MIDRC-LOINC mapping and the long-tail problem_ at [MIDRC Seminar](https://www.midrc.org/seminar-series).
 * Dec 2023, _Semi/Self-supervised Learning with Limited Annotations in Medical Image Analysis_ at [CCVL@JHU](https://ccvl.jhu.edu/)
-* May 2021, at [MIT Blended Learning Program](https://openlearning.mit.edu/courses-programs/mit-xpro)
-* Dec 2020, at [Study Abroad Foundation (SAF) China](https://www.studyabroadfoundation.org/)
+<!-- * May 2021, at [MIT Blended Learning Program](https://openlearning.mit.edu/courses-programs/mit-xpro)
+* Dec 2020, at [Study Abroad Foundation (SAF) China](https://www.studyabroadfoundation.org/) -->
 
 <!--Teaching
 ======
