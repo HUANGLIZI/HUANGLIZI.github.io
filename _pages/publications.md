@@ -10,7 +10,7 @@ author_profile: true
 You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?hl=en&user=KoY6bW8AAAAJ) or [Semantic Scholar](https://www.semanticscholar.org/author/Zihan-Li/2118273929) profile.
 
 **2025**
-* [C1] Ziheng Zhang\*, **Zihan Li\***, Dandan Shan, Yuehui Qiu, Qingqi Hong, Qingqiang Wu. An Intra- and Cross-frame Topological Consistency Scheme for Semi-supervised Atherosclerotic Coronary Plaque Segmentation. ICASSP 2025. [Oral](https://arxiv.org/abs/2501.07850)
+* [C1] Ziheng Zhang\*, **Zihan Li\***, Dandan Shan, Yuehui Qiu, Qingqi Hong, Qingqiang Wu. An Intra- and Cross-frame Topological Consistency Scheme for Semi-supervised Atherosclerotic Coronary Plaque Segmentation. ICASSP 2025. [Paper](https://arxiv.org/abs/2501.07850)
   
 **2024**
 * [C1] Xiangde Luo\*, **Zihan Li\***, Shaoting Zhang, Wenjun Liao, Guotai Wang. Rethinking Abdominal Organ Segmentation (RAOS) in the clinical scenario: A robustness evaluation benchmark with challenging cases. MICCAI 2024. [Early Accept](https://arxiv.org/abs/2406.13674)
