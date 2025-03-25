@@ -49,6 +49,7 @@ Service and leadership
 
 Honors and Awards
 ======
+* Mortar Board Alumni/Tolo Foundation's Ayers Scholarship 2025
 * IEEE TMI Distinguished Reviewer Bronze Level 2023 – 2024
 * UIUC Conference Presentation Award 2023
 * National Scholarship of China (0.2%) 2020, 2021
