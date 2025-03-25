@@ -15,7 +15,7 @@ My research focuses on the Multimodal Large Language Model including the vision-
 
 Recent News
 ======
-* <span class='emoji'>🔥</span> [Mar 2025] Awarded the Mortar Board Alumni/Tolo Foundation’s Ayers Scholarship.
+* <span class='emoji'>🔥</span> [Mar 2025] Awarded the [Mortar Board Alumni/Tolo Foundation’s Ayers Scholarship](https://www.mortarboardtolo.org/about/).
 * <span class='emoji'>🔥</span> [Dec 2024] Our work [ICTC](https://arxiv.org/abs/2501.07850) is accepted by [ICASSP 2025](https://2025.ieeeicassp.org/).
 * <span class='emoji'>🔥</span> [Oct 2024] One [paper](https://arxiv.org/abs/2309.16967) is accepted by [Medical Physics](https://aapm.onlinelibrary.wiley.com/journal/24734209/journal-metrics).
 * <span class='emoji'>🔥</span> [Aug 2024] One [paper](https://ieeexplore.ieee.org/document/10643360) is accepted by [IEEE Transactions on Fuzzy Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=91).
