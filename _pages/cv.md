@@ -49,6 +49,7 @@ Service and leadership
 
 Honors and Awards
 ======
+* AAPM Expanding Horizons Travel Grant 2025
 * Mortar Board Alumni/Tolo Foundation's Ayers Scholarship 2025
 * IEEE TMI Distinguished Reviewer Bronze Level 2023 – 2024
 * UIUC Conference Presentation Award 2023
