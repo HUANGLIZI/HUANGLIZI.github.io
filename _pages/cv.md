@@ -49,6 +49,7 @@ Service and leadership
 
 Honors and Awards
 ======
+* ICLR Notable Reviewer 2025
 * AAPM Expanding Horizons Travel Grant 2025
 * Mortar Board Alumni/Tolo Foundation's Ayers Scholarship 2025
 * IEEE TMI Distinguished Reviewer Bronze Level 2023 – 2024
