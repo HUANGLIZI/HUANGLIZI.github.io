@@ -20,9 +20,9 @@ Work experience
   * UW Medicine [Imaging Research Lab](http://depts.washington.edu/imreslab/)
   * Research: Foundation Model and AI-Driven Data Harmonization.
  
-<!-- * June 2025 - Sept 2025: Research Intern. Supervisor: Dr. [Ali Kamen](https://scholar.google.com/citations?user=j41ocikAAAAJ&hl=en), Dr. [Riqaing Gao](https://scholar.google.com/citations?hl=en&user=VjI_dtUAAAAJ) -->
-<!--   * Siemens Healthineers -->
-<!--  * Research: Vision-language foundation model for radiation therapy.-->
+* June 2025 - Now: Research Intern. Supervisor: Dr. [Ali Kamen](https://scholar.google.com/citations?user=j41ocikAAAAJ&hl=en), Dr. [Riqaing Gao](https://scholar.google.com/citations?hl=en&user=VjI_dtUAAAAJ)
+  * Siemens Healthineers 
+  * Research: Vision-language foundation model for radiation therapy.
 
 * June 2023 - Sept 2023: Research Intern. Supervisor: Prof. [Yu Qiao](https://scholar.google.com/citations?user=gFtI-8QAAAAJ)
   * Shanghai AI Laboratory
