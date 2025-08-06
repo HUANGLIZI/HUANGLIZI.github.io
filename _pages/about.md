@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m Zihan, a second-year Ph.D. student at [University of Washington](https://www.washington.edu/), Seattle, advised by Prof. [Paul Kinahan](https://rad.uw.edu/people/paul-kinahan) (IEEE Life Fellow, FAAPM, FSNMMI, FAIMBE). I received my Master degree from the [Department of Computer Science](https://cs.illinois.edu/), [UIUC](https://illinois.edu/) in 2023. 
+Hi! I’m Zihan, a second-year Ph.D. student at [University of Washington](https://www.washington.edu/), Seattle, advised by Prof. [Paul Kinahan](https://rad.uw.edu/people/kinahan) (IEEE Life Fellow, FAAPM, FSNMMI, FAIMBE). I received my Master degree from the [Department of Computer Science](https://cs.illinois.edu/), [UIUC](https://illinois.edu/) in 2023. 
 
 My research focuses on the Multimodal Large Language Model including the vision-language model and medical image analysis. I am committed to helping doctors or researchers carry out quantitative analysis and treatment planning for tissues and organs of the human body by combining AI with medical images. I am currently a member of the [AAPM-MIDRC](https://www.aapm.org/org/structure/default.asp?committee_code=MIDRC) subcommittee and [MIDRC/CRP-12](https://www.midrc.org/midrc-collaborating-research-projects/project-one-crp12), dedicated to determining medical image data quality, provenance, and harmonization.
 
