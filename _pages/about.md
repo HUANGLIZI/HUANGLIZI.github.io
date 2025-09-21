@@ -11,7 +11,7 @@ Hi! I’m Zihan, a third-year Ph.D. student at [University of Washington](https:
 
 My research focuses on the Multimodal Large Language Model including the vision-language model and medical image analysis. I am committed to helping doctors or researchers carry out quantitative analysis and treatment planning for tissues and organs of the human body by combining AI with medical images. I am currently a member of the [AAPM-MIDRC](https://www.aapm.org/org/structure/default.asp?committee_code=MIDRC) subcommittee and [MIDRC/CRP-12](https://www.midrc.org/midrc-collaborating-research-projects/project-one-crp12), dedicated to determining medical image data quality, provenance, and harmonization.
 
-Open to future collaboration on Foundation Models including VLMs and Large-scale Data Harmonization, I'd be delighted to engage in further conversation.
+Open to future collaboration on Foundation Models including VLMs and Large-scale Data Harmonization, I'd be delighted to engage in further conversation via Email.
 
 <!--**Actively looking for 2024 Summer Internship, I'd be delighted to engage in further conversation if you are interested.**-->
 
