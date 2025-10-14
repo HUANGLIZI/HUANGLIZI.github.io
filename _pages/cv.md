@@ -46,7 +46,7 @@ Work experience
 
 Service and leadership
 ======
-* Conference Reviewer: ICLR 2025-2026; NIPS 2025; IJCAI 2025; ACL 2025; ECAI 2025; AISTATS 2025; ISBI 2025; IJCNN 2025; ECCV 2024; ICCV 2023; ICASSP 2023-2025; MICCAI 2023-2025; ACM MM 2022-2025;
+* Conference Reviewer: ICLR 2025-2026; NIPS 2025; IJCAI 2025; ACL 2025; ECAI 2025; AISTATS 2025-2026; ISBI 2025; IJCNN 2025; ECCV 2024; ICCV 2023; ICASSP 2023-2026; MICCAI 2023-2025; ACM MM 2022-2025;
 * Journal Reviewer: IEEE TPAMI; IEEE TMI; IEEE TNNLS; IEEE TCSVT; IEEE TCYB; IEEE JBHI; ACM TIST; Radiology; Medical Image Analysis; Pattern Recognition; Neural Networks; EAAI; CIBM;
 * Review Editor: Frontiers in Neuroinformatics
 * Membership: ACM Member, SIIM Member, AAPM Student Member
