@@ -17,6 +17,7 @@ Open to future collaboration on any interesting project, I'd be delighted to eng
 
 Recent News
 ======
+* <span class='emoji'>🔥</span> [Nov 2025] Our work [SASNet](https://www.sciencedirect.com/science/article/pii/S0031320325014062) is accepted by [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition).
 * <span class='emoji'>🔥</span> [Oct 2025] Our work is accepted by [SPIE MI 2026](https://spie.org/MI26/conferencedetails/imaging-informatics) as [Oral Presentation](https://spie.org/medical-imaging/presentation/Largescale-data-harmonization-of-radiology-studies-via-multigranular-visionlanguage-alignment/13930-26).
 * <span class='emoji'>🔥</span> [Aug 2025] Our work [VisionUnite](https://arxiv.org/abs/2408.02865) is accepted by [IEEE TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34).
 * <span class='emoji'>🔥</span> [May 2025] Our work [STPNet](https://arxiv.org/abs/2504.01561) is accepted by [IEEE TIP](https://ieeexplore.ieee.org/xpl/topAccessedArticles.jsp?punumber=83).
