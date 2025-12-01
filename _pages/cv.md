@@ -11,15 +11,14 @@ redirect_from:
 Education
 ======
 * Ph.D. in Bioengineering: Data Science, University of Washington, 2023-present
+  * Supervisor: Prof. [Paul Kinahan](https://scholar.google.com/citations?user=XXXSsTkAAAAJ), UW Medicine [Imaging Research Lab](http://depts.washington.edu/imreslab/)
+  * Doctoral Supervisor Committee: Prof. [Patrick Boyle](https://bioe.uw.edu/portfolio-items/patrick-m-boyle/), Prof. [David Haynor](https://rad.uw.edu/people/haynor), Prof. [Sheng Wang](https://homes.cs.washington.edu/~swang/)
+  * Research: Foundation Model and AI-Driven Data Harmonization.
 * Master in Computer Science, University of Illinois at Urbana-Champaign, 2022-2023
 * Bachelor in Software Engineering, Xiamen University, 2018-2022
 
 Work experience
 ======
-* Sept 2023 - Now: Research Assistant. Supervisor: Prof. [Paul Kinahan](https://scholar.google.com/citations?user=XXXSsTkAAAAJ)
-  * UW Medicine [Imaging Research Lab](http://depts.washington.edu/imreslab/)
-  * Research: Foundation Model and AI-Driven Data Harmonization.
- 
 * June 2025 - Now: Research Intern. Supervisor: Dr. [Ali Kamen](https://scholar.google.com/citations?user=j41ocikAAAAJ&hl=en), Dr. [Riqaing Gao](https://scholar.google.com/citations?hl=en&user=VjI_dtUAAAAJ)
   * Siemens Healthineers 
   * Research: Vision-language foundation model for radiation therapy.
