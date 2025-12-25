@@ -35,9 +35,9 @@ Recent News
 * [June 2023] Our work [LViT](https://github.com/HUANGLIZI/LViT) is accepted by [IEEE Transactions on Medical Imaging (TMI)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42).
 * [May 2023] We release the first Medical LLM [ChatDoctor](https://github.com/kent0n-li/chatdoctor) and its [huggingface repo](https://huggingface.co/zl111/ChatDoctor).
 * [May 2023] Two papers ([SwinMM](https://github.com/UCSC-VLAA/SwinMM), [CorSegRec](https://link.springer.com/chapter/10.1007/978-3-031-43898-1_64)) are accepted by [MICCAI 2023](https://conferences.miccai.org/2023/en/) as Oral Presentation.
-<!-- * [May 2023] One paper [DTDF-HFF](https://ieeexplore.ieee.org/abstract/document/10145798) is accepted by [IEEE Transactions on Neural Networks and Learning Systems (TNNLS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385). -->
-<!-- * [May 2023] Awarded the Conference Presentation Award for Graduate Students by UIUC! -->
-<!-- * [February 2023] Our Work [C2FVL](https://github.com/HUANGLIZI/C2FVL) is accepted by [ICASSP 2023](https://2023.ieeeicassp.org/).-->
+* [May 2023] One paper [DTDF-HFF](https://ieeexplore.ieee.org/abstract/document/10145798) is accepted by [IEEE Transactions on Neural Networks and Learning Systems (TNNLS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385).
+* [May 2023] Awarded the Conference Presentation Award for Graduate Students by UIUC!
+* [February 2023] Our Work [C2FVL](https://github.com/HUANGLIZI/C2FVL) is accepted by [ICASSP 2023](https://2023.ieeeicassp.org/).
 
 My work and research
 ======
