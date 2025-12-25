@@ -17,13 +17,14 @@ Open to future collaboration on any interesting project, I'd be delighted to eng
 
 Recent News
 ======
+* <span class='emoji'>🔥</span> [Dec 2025] Awarded the [Gold-level Top Reviewer](https://ieeetmi.org/certificates-2025/) for IEEE Transactions on Medical Imaging (TMI).
 * <span class='emoji'>🔥</span> [Nov 2025] Our work [SASNet](https://authors.elsevier.com/c/1m8Lh77nKsC8k) is accepted by [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition).
 * <span class='emoji'>🔥</span> [Oct 2025] Our work is accepted by [SPIE MI 2026](https://spie.org/MI26/conferencedetails/imaging-informatics) as [Oral Presentation](https://spie.org/medical-imaging/presentation/Largescale-data-harmonization-of-radiology-studies-via-multigranular-visionlanguage-alignment/13930-26).
 * <span class='emoji'>🔥</span> [Aug 2025] Our work [VisionUnite](https://arxiv.org/abs/2408.02865) is accepted by [IEEE TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34).
 * <span class='emoji'>🔥</span> [May 2025] Our work [STPNet](https://arxiv.org/abs/2504.01561) is accepted by [IEEE TIP](https://ieeexplore.ieee.org/xpl/topAccessedArticles.jsp?punumber=83).
 * <span class='emoji'>🔥</span> [Mar 2025] Awarded the [Mortar Board Alumni/Tolo Foundation’s Ayers Scholarship](https://www.mortarboardtolo.org/about/).
 * <span class='emoji'>🔥</span> [Jan 2025] One abstract is accepted by SIIM 2025 as [Oral Presentation](https://annualmeeting.siim.org/sessions/data-matters-harmonization-and-improved-data-sources-scientific-research-abstracts/).
-* <span class='emoji'>🔥</span> [Dec 2024] Our work [ICTC](https://arxiv.org/abs/2501.07850) is accepted by [ICASSP 2025](https://2025.ieeeicassp.org/).
+* [Dec 2024] Our work [ICTC](https://arxiv.org/abs/2501.07850) is accepted by [ICASSP 2025](https://2025.ieeeicassp.org/).
 * [Oct 2024] One [paper](https://arxiv.org/abs/2309.16967) is accepted by [Medical Physics](https://aapm.onlinelibrary.wiley.com/journal/24734209/journal-metrics).
 * [Aug 2024] One [paper](https://ieeexplore.ieee.org/document/10643360) is accepted by [IEEE Transactions on Fuzzy Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=91).
 * [May 2024] Our work [RAOS](https://arxiv.org/abs/2406.13674) is early accepted by [MICCAI 2024](https://conferences.miccai.org/2024/en/).
