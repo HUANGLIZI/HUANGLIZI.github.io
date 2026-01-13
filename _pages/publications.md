@@ -29,3 +29,6 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 
 **2022**
 * [C1] **Zihan Li**, Dihan Li, Cangbai Xu, Weice Wang, Qingqi Hong, Qingde Li, Jie Tian. TFCNs: A CNN-Transformer Hybrid Network for Medical Image Segmentation. International Conference on Artificial Neural Networks. Springer, Cham, 2022. [Oral](https://link.springer.com/chapter/10.1007/978-3-031-15937-4_65)
+
+**Patent**
+* [P1] Qingqi Hong, Junfeng Yao, Dihan Li, **Zihan Li**. A medical image segmentation method and system based on semi supervised and Transformers. 2022. CN Patent ZL202210411699.5. 
