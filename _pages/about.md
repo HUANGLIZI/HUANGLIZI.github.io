@@ -17,7 +17,7 @@ Open to future collaboration on any interesting project, I'd be delighted to eng
 
 Recent News
 ======
-* <span class='emoji'>🔥</span> [Jan 2025] Our work [MGLL](https://arxiv.org/abs/2511.15943) is accepted by [ICLR 2026](https://iclr.cc/Conferences/2026).
+* <span class='emoji'>🔥</span> [Jan 2026] Our work [MGLL](https://arxiv.org/abs/2511.15943) is accepted by [ICLR 2026](https://iclr.cc/Conferences/2026).
 * <span class='emoji'>🔥</span> [Dec 2025] Awarded the [Gold-level Top Reviewer](https://ieeetmi.org/certificates-2025/) for IEEE TMI.
 * <span class='emoji'>🔥</span> [Nov 2025] Our work [SASNet](https://www.sciencedirect.com/science/article/pii/S0031320325014062) is accepted by [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition).
 * <span class='emoji'>🔥</span> [Oct 2025] Our work is accepted by [SPIE MI 2026](https://spie.org/MI26/conferencedetails/imaging-informatics) as [Oral Presentation](https://spie.org/medical-imaging/presentation/Largescale-data-harmonization-of-radiology-studies-via-multigranular-visionlanguage-alignment/13930-26).
