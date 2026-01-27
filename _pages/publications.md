@@ -9,6 +9,9 @@ author_profile: true
 {% endif %}
 You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?hl=en&user=KoY6bW8AAAAJ) or [Semantic Scholar](https://www.semanticscholar.org/author/Zihan-Li/2118273929) profile.
 
+**2026**
+* [C1] **Zihan Li\***, Yiqing Wang, Sina Farsiu, Paul Kinahan. Boosting Medical Visual Understanding From Multi-Granular Language Learning. ICLR 2026. [Paper](https://arxiv.org/abs/2511.15943)
+
 **2025**
 * [C1] Ziheng Zhang\*, **Zihan Li\***, Dandan Shan, Yuehui Qiu, Qingqi Hong, Qingqiang Wu. An Intra- and Cross-frame Topological Consistency Scheme for Semi-supervised Atherosclerotic Coronary Plaque Segmentation. ICASSP 2025. [Paper](https://arxiv.org/abs/2501.07850)
 * [J1] **Zihan Li**, Diping Song, Zefeng Yang, Deming Wang, Fei Li, Xiulan Zhang, Paul E. Kinahan, Yu Qiao. VisionUnite: A Vision-Language Foundation Model for Ophthalmology Enhanced with Clinical Knowledge. IEEE Transactions on Pattern Analysis and Machine Intelligence (2025). [Paper](https://arxiv.org/abs/2408.02865)
