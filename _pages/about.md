@@ -17,6 +17,7 @@ Open to future collaboration on any interesting project, I'd be delighted to eng
 
 Recent News
 ======
+* <span class='emoji'>🔥</span> [Feb 2026] One paper is accepted by [Journal of Advanced Research](https://www.sciencedirect.com/journal/journal-of-advanced-research).
 * <span class='emoji'>🔥</span> [Jan 2026] Our work [MGLL](https://arxiv.org/abs/2511.15943) is accepted by [ICLR 2026](https://iclr.cc/Conferences/2026).
 * <span class='emoji'>🔥</span> [Dec 2025] Awarded the [Gold-level Top Reviewer](https://ieeetmi.org/certificates-2025/) for IEEE TMI.
 * <span class='emoji'>🔥</span> [Nov 2025] Our work [SASNet](https://www.sciencedirect.com/science/article/pii/S0031320325014062) is accepted by [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition).
