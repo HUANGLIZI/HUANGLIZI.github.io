@@ -63,6 +63,7 @@ Honors and Awards
 
 Talks
 ======
+* Jan 2026, _A Structured Approach for AI models in multi-modal medical imaging_ at [CDMC@Xiamen University](https://cdmc.xmu.edu.cn/index.htm)
 * Feb 2025, _NLPs, new tools, MIDRC-LOINC mapping and the long-tail problem_ at [MIDRC Seminar](https://www.midrc.org/seminar-series)
 * Dec 2023, _Semi/Self-supervised Learning with Limited Annotations in Medical Image Analysis_ at [CCVL@JHU](https://ccvl.jhu.edu/)
 <!-- * May 2021, at [MIT Blended Learning Program](https://openlearning.mit.edu/courses-programs/mit-xpro) -->
