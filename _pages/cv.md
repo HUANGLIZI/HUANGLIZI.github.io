@@ -45,13 +45,15 @@ Work experience
 
 Service and leadership
 ======
-* Conference Reviewer: ICML 2026; CVPR 2026; ICLR 2025-2026; NIPS 2025; IJCAI 2025-2026; ECAI 2025-2026; AISTATS 2025-2026; ISBI 2025-2026; ACL 2025; LOG 2025; IJCNN 2025; ECCV 2024; ICCV 2023; ICASSP 2023-2026; MICCAI 2023-2025; ACM MM 2022-2025;
+* Conference Reviewer: ICML 2026; CVPR 2026; ICLR 2025-2026; NIPS 2025; IJCAI 2025-2026; ECAI 2025-2026; AISTATS 2025-2026; ISBI 2025-2026; ACL 2025; LOG 2025; IJCNN 2025; ECCV 2024; ICCV 2023; ICASSP 2023-2026; MICCAI 2023-2026; ACM MM 2022-2025;
 * Journal Reviewer: IEEE TPAMI; IEEE TMI; IEEE TNNLS; IEEE TCSVT; IEEE TCYB; IEEE JBHI; ACM TIST; Radiology; Medical Image Analysis; Pattern Recognition; Neural Networks; EAAI; CIBM;
 * Review Editor: Frontiers in Neuroinformatics
 * Membership: ACM Member, SIIM Student Member, AAPM Student Member, SPIE Student Member
 
 Honors and Awards
 ======
+* UW GPSS Travel Grant 2026
+* UW Conference Presentation Award 2026
 * IEEE TMI Distinguished Reviewer Gold Level 2025
 * ICLR Notable Reviewer 2025
 * AAPM Expanding Horizons Travel Grant 2025
