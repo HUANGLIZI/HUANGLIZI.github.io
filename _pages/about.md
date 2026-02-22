@@ -17,6 +17,7 @@ Open to future collaboration on any interesting project, I'd be delighted to eng
 
 Recent News
 ======
+* <span class='emoji'>🔥</span> [Feb 2026] Our work DiffKT3D is accepted by [CVPR 2026](https://cvpr.thecvf.com/Conferences/2026).
 * <span class='emoji'>🔥</span> [Feb 2026] Our [work](https://spie.org/medical-imaging/presentation/Largescale-data-harmonization-of-radiology-studies-via-multigranular-visionlanguage-alignment/13930-26) receive the [Imaging Informatics Best Paper Runner-Up](https://spie.org/conferences-and-exhibitions/medical-imaging/program/conferences/awards) at SPIE Medical Imaging.
 * <span class='emoji'>🔥</span> [Feb 2026] One [paper](https://www.sciencedirect.com/science/article/pii/S2090123226001049) is accepted by [Journal of Advanced Research](https://www.sciencedirect.com/journal/journal-of-advanced-research).
 * <span class='emoji'>🔥</span> [Jan 2026] Our work [MGLL](https://arxiv.org/abs/2511.15943) is accepted by [ICLR 2026](https://iclr.cc/Conferences/2026).
