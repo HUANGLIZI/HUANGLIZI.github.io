@@ -79,8 +79,8 @@ analytics:
 # Site Author
 author:
   name             : "Zihan Li"
-  avatar           : "profile_3.png"
-  bio              : "I am studying for my Ph.D. degree in UW, and my research focuses on medical image analysis."
+  avatar           : "profile_4.png"
+  bio              : "I am studying for my Ph.D. degree in UW, and my research focuses on healthcare foundation model."
   location         : "Seattle, WA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
