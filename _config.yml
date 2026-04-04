@@ -5,9 +5,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zihan Li (李子晗)"
+title                    : "Zihan Li"
 title_separator          : "-"
-name                     : &name "Zihan Li"
+name                     : &name "Zihan Li (李子晗)"
 description              : &description "personal description"
 url                      : "https://huanglizi.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
