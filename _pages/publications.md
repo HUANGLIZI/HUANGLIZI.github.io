@@ -11,6 +11,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 
 **2026**
 * [C1] **Zihan Li**, Yiqing Wang, Sina Farsiu, Paul Kinahan. Boosting Medical Visual Understanding From Multi-Granular Language Learning. ICLR 2026. [Paper](https://arxiv.org/abs/2511.15943)
+* [C2] **Zihan Li**, Yiqing Wang, Sina Farsiu, Paul Kinahan. Large‑scale data harmonization of radiology studies via multigranular vision‑language alignment. SPIE MI 2026. [Oral, Best Paper Runner-up](https://arxiv.org/abs/2511.15943)
 
 **2025**
 * [C1] Ziheng Zhang\*, **Zihan Li\***, Dandan Shan, Yuehui Qiu, Qingqi Hong, Qingqiang Wu. An Intra- and Cross-frame Topological Consistency Scheme for Semi-supervised Atherosclerotic Coronary Plaque Segmentation. ICASSP 2025. [Paper](https://arxiv.org/abs/2501.07850)
