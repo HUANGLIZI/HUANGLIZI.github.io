@@ -17,6 +17,7 @@ My research focuses on the Foundation Model including the multimodal large langu
 
 Recent News
 ======
+* <span class='emoji'>🔥</span> [Apr 2026] We are calling for the submission of the topic [_"Clinical Neuroinformatics: AI-Powered Precision Medicine for the Brain"_](https://www.frontiersin.org/research-topics/73772/clinical-neuroinformatics-ai-powered-precision-medicine-for-the-brain).
 * <span class='emoji'>🔥</span> [Feb 2026] Our work DiffKT3D is accepted by [CVPR 2026](https://cvpr.thecvf.com/Conferences/2026).
 * <span class='emoji'>🔥</span> [Feb 2026] Our [work](https://doi.org/10.1117/12.3085934) receive the [Imaging Informatics Best Paper Runner-Up](https://spie.org/conferences-and-exhibitions/medical-imaging/program/conferences/awards) at SPIE Medical Imaging.
 * <span class='emoji'>🔥</span> [Feb 2026] One [paper](https://www.sciencedirect.com/science/article/pii/S2090123226001049) is accepted by [Journal of Advanced Research](https://www.sciencedirect.com/journal/journal-of-advanced-research).
@@ -26,7 +27,7 @@ Recent News
 * <span class='emoji'>🔥</span> [Oct 2025] Our work is accepted by [SPIE MI 2026](https://spie.org/MI26/conferencedetails/imaging-informatics) as [Oral Presentation](https://spie.org/medical-imaging/presentation/Largescale-data-harmonization-of-radiology-studies-via-multigranular-visionlanguage-alignment/13930-26).
 * <span class='emoji'>🔥</span> [Aug 2025] Our work [VisionUnite](https://arxiv.org/abs/2408.02865) is accepted by [IEEE TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34).
 * <span class='emoji'>🔥</span> [May 2025] Our work [STPNet](https://arxiv.org/abs/2504.01561) is accepted by [IEEE TIP](https://ieeexplore.ieee.org/xpl/topAccessedArticles.jsp?punumber=83).
-* <span class='emoji'>🔥</span> [Mar 2025] Awarded the [Mortar Board Alumni/Tolo Foundation’s Ayers Scholarship](https://www.mortarboardtolo.org/about/).
+* [Mar 2025] Awarded the [Mortar Board Alumni/Tolo Foundation’s Ayers Scholarship](https://www.mortarboardtolo.org/about/).
 * [Jan 2025] One abstract is accepted by SIIM 2025 as [Oral Presentation](https://annualmeeting.siim.org/wp-content/uploads/2025/04/Multi-stage-Multimodal-Deep-Learning-Zihan-Li.pdf).
 * [Dec 2024] Our work [ICTC](https://arxiv.org/abs/2501.07850) is accepted by [ICASSP 2025](https://2025.ieeeicassp.org/).
 * [Oct 2024] One [paper](https://arxiv.org/abs/2309.16967) is accepted by [Medical Physics](https://aapm.onlinelibrary.wiley.com/journal/24734209/journal-metrics).
