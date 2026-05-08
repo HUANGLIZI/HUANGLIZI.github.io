@@ -17,6 +17,7 @@ My research focuses on the Foundation Model including the multimodal large langu
 
 Recent News
 ======
+* <span class='emoji'>🔥</span> [May 2026] One work SynMamba is early accepted by [MICCAI 2026](https://conferences.miccai.org/2026/en/).
 * <span class='emoji'>🔥</span> [Apr 2026] We are calling for the submission of topic [_"Clinical Neuroinformatics: AI-Powered Precision Medicine for the Brain"_](https://www.frontiersin.org/research-topics/73772/clinical-neuroinformatics-ai-powered-precision-medicine-for-the-brain). Submission Deadline: 12 October, 2026
 * <span class='emoji'>🔥</span> [Feb 2026] Our work DiffKT3D is accepted by [CVPR 2026](https://cvpr.thecvf.com/Conferences/2026).
 * <span class='emoji'>🔥</span> [Feb 2026] Our [work](https://doi.org/10.1117/12.3085934) receive the [Imaging Informatics Best Paper Runner-Up](https://spie.org/conferences-and-exhibitions/medical-imaging/program/conferences/awards) at SPIE Medical Imaging.
@@ -26,7 +27,7 @@ Recent News
 * <span class='emoji'>🔥</span> [Nov 2025] Our work [SASNet](https://www.sciencedirect.com/science/article/pii/S0031320325014062) is accepted by [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition).
 * <span class='emoji'>🔥</span> [Oct 2025] Our work is accepted by [SPIE MI 2026](https://spie.org/MI26/conferencedetails/imaging-informatics) as [Oral Presentation](https://spie.org/medical-imaging/presentation/Largescale-data-harmonization-of-radiology-studies-via-multigranular-visionlanguage-alignment/13930-26).
 * <span class='emoji'>🔥</span> [Aug 2025] Our work [VisionUnite](https://arxiv.org/abs/2408.02865) is accepted by [IEEE TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34).
-* <span class='emoji'>🔥</span> [May 2025] Our work [STPNet](https://arxiv.org/abs/2504.01561) is accepted by [IEEE TIP](https://ieeexplore.ieee.org/xpl/topAccessedArticles.jsp?punumber=83).
+* [May 2025] Our work [STPNet](https://arxiv.org/abs/2504.01561) is accepted by [IEEE TIP](https://ieeexplore.ieee.org/xpl/topAccessedArticles.jsp?punumber=83).
 * [Mar 2025] Awarded the [Mortar Board Alumni/Tolo Foundation’s Ayers Scholarship](https://www.mortarboardtolo.org/about/).
 * [Jan 2025] One abstract is accepted by SIIM 2025 as [Oral Presentation](https://annualmeeting.siim.org/wp-content/uploads/2025/04/Multi-stage-Multimodal-Deep-Learning-Zihan-Li.pdf).
 * [Dec 2024] Our work [ICTC](https://arxiv.org/abs/2501.07850) is accepted by [ICASSP 2025](https://2025.ieeeicassp.org/).
@@ -42,7 +43,7 @@ Recent News
 * [May 2023] Two papers ([SwinMM](https://github.com/UCSC-VLAA/SwinMM), [CorSegRec](https://link.springer.com/chapter/10.1007/978-3-031-43898-1_64)) are accepted by [MICCAI 2023](https://conferences.miccai.org/2023/en/) as Oral Presentation.
 * [May 2023] One paper [DTDF-HFF](https://ieeexplore.ieee.org/abstract/document/10145798) is accepted by [IEEE Transactions on Neural Networks and Learning Systems (TNNLS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385).
 * [May 2023] Awarded the Conference Presentation Award for Graduate Students by UIUC.
-* [February 2023] Our Work [C2FVL](https://github.com/HUANGLIZI/C2FVL) is accepted by [ICASSP 2023](https://2023.ieeeicassp.org/).
+* [Feb 2023] Our Work [C2FVL](https://github.com/HUANGLIZI/C2FVL) is accepted by [ICASSP 2023](https://2023.ieeeicassp.org/).
 
 My work and research
 ======
