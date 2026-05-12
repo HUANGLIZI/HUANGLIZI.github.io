@@ -19,7 +19,7 @@ Recent News
 ======
 * <span class='emoji'>🔥</span> [May 2026] One work SynMamba is early accepted by [MICCAI 2026](https://conferences.miccai.org/2026/en/).
 * <span class='emoji'>🔥</span> [Apr 2026] We are calling for the submission of topic [_"Clinical Neuroinformatics: AI-Powered Precision Medicine for the Brain"_](https://www.frontiersin.org/research-topics/73772/clinical-neuroinformatics-ai-powered-precision-medicine-for-the-brain). Submission Deadline: 12 October, 2026
-* <span class='emoji'>🔥</span> [Feb 2026] Our work DiffKT3D is accepted by [CVPR 2026](https://cvpr.thecvf.com/Conferences/2026).
+* <span class='emoji'>🔥</span> [Feb 2026] Our work [DiffKT3D](https://arxiv.org/abs/2605.09622) is accepted by [CVPR 2026](https://cvpr.thecvf.com/Conferences/2026).
 * <span class='emoji'>🔥</span> [Feb 2026] Our [work](https://doi.org/10.1117/12.3085934) receive the [Imaging Informatics Best Paper Runner-Up](https://spie.org/conferences-and-exhibitions/medical-imaging/program/conferences/awards) at SPIE Medical Imaging.
 * <span class='emoji'>🔥</span> [Feb 2026] One [paper](https://www.sciencedirect.com/science/article/pii/S2090123226001049) is accepted by [Journal of Advanced Research](https://www.sciencedirect.com/journal/journal-of-advanced-research).
 * <span class='emoji'>🔥</span> [Jan 2026] Our work [MGLL](https://arxiv.org/abs/2511.15943) is accepted by [ICLR 2026](https://iclr.cc/Conferences/2026).
