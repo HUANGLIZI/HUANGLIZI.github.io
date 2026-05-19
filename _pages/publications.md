@@ -10,9 +10,9 @@ author_profile: true
 You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?hl=en&user=KoY6bW8AAAAJ) or [Semantic Scholar](https://www.semanticscholar.org/author/Zihan-Li/2118273929) profile.
 
 **2026**
-* [C1] **Zihan Li**, Yiqing Wang, Sina Farsiu, Paul Kinahan. Boosting Medical Visual Understanding From Multi-Granular Language Learning. ICLR 2026. [Paper](https://arxiv.org/abs/2511.15943) <font color="red">_Multimodal Foundation Model_</font>
+* [C1] **Zihan Li**, Yiqing Wang, Sina Farsiu, Paul Kinahan. Boosting Medical Visual Understanding From Multi-Granular Language Learning. ICLR 2026. [Paper](https://arxiv.org/abs/2511.15943) <font color="red"> _Multimodal Foundation Model_ </font>
 * [C2] **Zihan Li**, Yiqing Wang, Sina Farsiu, Paul Kinahan. Large‑scale data harmonization of radiology studies via multigranular vision‑language alignment. SPIE MI 2026. [Oral, Best Paper Runner-up](https://arxiv.org/abs/2511.15943) _Data Harmonization_
-* [C3] Yuhan Wang\*, **Zihan Li\***, Han Liu, Simon Arberet, Martin Kraus, Yuyin Zhou, Florin-Cristian Ghesu, Dorin Comaniciu, Ali Kamen, Riqiang Gao. Any2Any 3D Diffusion Models with Knowledge Transfer: A Radiotherapy Planning Study. CVPR 2026. [Paper](https://arxiv.org/abs/2605.09622) _Diffusion Foundation Model_
+* [C3] Yuhan Wang\*, **Zihan Li\***, Han Liu, Simon Arberet, Martin Kraus, Yuyin Zhou, Florin-Cristian Ghesu, Dorin Comaniciu, Ali Kamen, Riqiang Gao. Any2Any 3D Diffusion Models with Knowledge Transfer: A Radiotherapy Planning Study. CVPR 2026. [Paper](https://arxiv.org/abs/2605.09622) <font color="red"> _Diffusion Foundation Model_ </font>
 
 **2025**
 * [C1] Ziheng Zhang\*, **Zihan Li\***, Dandan Shan, Yuehui Qiu, Qingqi Hong, Qingqiang Wu. An Intra- and Cross-frame Topological Consistency Scheme for Semi-supervised Atherosclerotic Coronary Plaque Segmentation. ICASSP 2025. [Paper](https://arxiv.org/abs/2501.07850) _Medical Image Analysis_
