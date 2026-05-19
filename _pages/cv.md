@@ -21,11 +21,11 @@ Work experience
 ======
 * June 2025 - Now: Research Intern. Supervisor: Dr. [Ali Kamen](https://scholar.google.com/citations?user=j41ocikAAAAJ&hl=en), Dr. [Riqaing Gao](https://scholar.google.com/citations?hl=en&user=VjI_dtUAAAAJ)
   * Siemens Healthineers 
-  * Research: Vision-language foundation model for radiation therapy.
+  * Research: Multimodal foundation model for radiation therapy.
 
 * June 2023 - Sept 2023: Research Intern. Supervisor: Prof. [Yu Qiao](https://scholar.google.com/citations?user=gFtI-8QAAAAJ)
   * Shanghai AI Laboratory
-  * Research: Large Multimodal Model (LMM) for medical image and diagnostic report.
+  * Research: Multimodal Large Language Model (MLLM) for medical image and diagnostic report.
 
 * Mar 2022 - Aug 2022: Research Intern. Supervisor: Dr. [Le Lu](https://www.cs.jhu.edu/~lelu/), Dr. [Dakai Jin](https://dakjin.github.io/)
   * Alibaba DAMO Academy
