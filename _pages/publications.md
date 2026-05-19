@@ -11,7 +11,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 
 **2026**
 * [C1] **Zihan Li**, Yiqing Wang, Sina Farsiu, Paul Kinahan. Boosting Medical Visual Understanding From Multi-Granular Language Learning. ICLR 2026. [Paper](https://arxiv.org/abs/2511.15943) <font color="red">Multimodal Foundation Model</font>
-* [C2] **Zihan Li**, Yiqing Wang, Sina Farsiu, Paul Kinahan. Large‑scale data harmonization of radiology studies via multigranular vision‑language alignment. SPIE MI 2026. [Oral, Best Paper Runner-up](https://arxiv.org/abs/2511.15943) <font color="red">Data Harmonization/font>
+* [C2] **Zihan Li**, Yiqing Wang, Sina Farsiu, Paul Kinahan. Large‑scale data harmonization of radiology studies via multigranular vision‑language alignment. SPIE MI 2026. [Oral, Best Paper Runner-up](https://arxiv.org/abs/2511.15943) <font color="red">Data Harmonization</font>
 * [C3] Yuhan Wang\*, **Zihan Li\***, Han Liu, Simon Arberet, Martin Kraus, Yuyin Zhou, Florin-Cristian Ghesu, Dorin Comaniciu, Ali Kamen, Riqiang Gao. Any2Any 3D Diffusion Models with Knowledge Transfer: A Radiotherapy Planning Study. CVPR 2026. [Paper](https://arxiv.org/abs/2605.09622) <font color="red">Diffusion Foundation Model</font>
 
 **2025**
