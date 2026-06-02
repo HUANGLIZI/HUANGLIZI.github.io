@@ -64,6 +64,6 @@ I am pursuing my Ph.D. degree from [University of Washington](https://www.washin
 
   
     <div align="center" style="width:20%">
-        <script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=25UIdm33XzTksDSIFck_999zBP6-jI7PnPUW4LE7FaQ"></script>
+        <script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=KAUBImOUlY6q1dtY8UWCnSpus3NTi0NgUyshglggJ6o"></script>
     </div>
 </div>
