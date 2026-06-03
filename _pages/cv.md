@@ -19,7 +19,11 @@ Education
 
 Work experience
 ======
-* June 2025 - Now: Research Intern. Supervisor: Dr. [Ali Kamen](https://scholar.google.com/citations?user=j41ocikAAAAJ&hl=en), Dr. [Riqaing Gao](https://scholar.google.com/citations?hl=en&user=VjI_dtUAAAAJ)
+* June 2026 - Present: Research Intern. Supervisor: Dr. [Ardavan Saeedi](https://scholar.google.com/citations?user=sNMowOIAAAAJ&hl=en)
+  * Optum AI (UnitedHealth Group)
+  * Research: Agentic multimodal AI for Electronic Health Records (EHR) data.
+    
+* June 2025 - May 2026: Research Intern. Supervisor: Dr. [Ali Kamen](https://scholar.google.com/citations?user=j41ocikAAAAJ&hl=en), Dr. [Riqaing Gao](https://scholar.google.com/citations?hl=en&user=VjI_dtUAAAAJ)
   * Siemens Healthineers 
   * Research: Multimodal foundation model for radiation therapy.
 
