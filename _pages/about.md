@@ -13,8 +13,6 @@ My research focuses on the Foundation Model including the multimodal large langu
 
 <span style="color:red">I am on the job market and actively seeking research scientist/academic position opportunities starting in Fall 2027!</span>
 
-<!--**Actively looking for 2024 Summer Internship, I'd be delighted to engage in further conversation if you are interested.**-->
-
 Recent News
 ======
 * <span class='emoji'>🔥</span> [May 2026] One work SynMamba is early accepted by [MICCAI 2026](https://conferences.miccai.org/2026/en/).
@@ -47,7 +45,7 @@ Recent News
 
 My work and research
 ======
-My current works focus on multimodal foundation model and agentic AI. I have participated in multiple internships in both academia and industry. I have worked as a research intern at the [University of Cambridge](https://www.cam.ac.uk/), [Johns Hopkins University](https://www.jhu.edu/), and [Peking University](https://english.pku.edu.cn/), as well as at [Siemens Healthineers](https://www.siemens-healthineers.com/), [Alibaba DAMO Academy](https://damo.alibaba.com/?lang=en) and [Shanghai AI Laboratory](https://www.shlab.org.cn/). I have worked closely with several respected professors including Prof. [Alan L. Yuille](https://www.cs.jhu.edu/~ayuille/), Prof. [Pietro Liò](https://www.cl.cam.ac.uk/~pl219/), Prof. [Dinggang Shen](https://scholar.google.com/citations?user=v6VYQC8AAAAJ&hl=EN), Prof. [Jie Tian](http://www.mitk.net.cn/tian/), Prof. [Yu Qiao](https://scholar.google.com/citations?user=gFtI-8QAAAAJ), Dr. [Ali Kamen](https://scholar.google.com/citations?user=j41ocikAAAAJ&hl=en) and Dr. [Le Lu](https://www.cs.jhu.edu/~lelu/).
+My current works focus on multimodal foundation model and agentic AI. I have participated in multiple internships in both academia and industry. I have worked as a research intern at the [University of Cambridge](https://www.cam.ac.uk/), [Johns Hopkins University](https://www.jhu.edu/), and [Peking University](https://english.pku.edu.cn/), as well as at [Optum AI (UnitedHealth Group)](https://www.optum.ai/), [Siemens Healthineers](https://www.siemens-healthineers.com/), [Alibaba DAMO Academy](https://damo.alibaba.com/?lang=en) and [Shanghai AI Laboratory](https://www.shlab.org.cn/). I have worked closely with several respected professors including Prof. [Alan L. Yuille](https://www.cs.jhu.edu/~ayuille/), Prof. [Pietro Liò](https://www.cl.cam.ac.uk/~pl219/), Prof. [Dinggang Shen](https://scholar.google.com/citations?user=v6VYQC8AAAAJ&hl=EN), Prof. [Jie Tian](http://www.mitk.net.cn/tian/), Prof. [Yu Qiao](https://scholar.google.com/citations?user=gFtI-8QAAAAJ), Dr. [Ali Kamen](https://scholar.google.com/citations?user=j41ocikAAAAJ&hl=en) and Dr. [Le Lu](https://www.cs.jhu.edu/~lelu/).
 
 My background and history
 ======
