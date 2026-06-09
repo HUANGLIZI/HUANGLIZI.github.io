@@ -56,6 +56,7 @@ Service and leadership
 
 Honors and Awards
 ======
+* Ruby Newhall Memorial Scholarship 2026
 * UW GPSS Travel Grant 2026
 * UW Conference Presentation Award 2026
 * IEEE TMI Distinguished Reviewer Gold Level 2025
