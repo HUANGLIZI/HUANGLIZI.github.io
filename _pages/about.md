@@ -15,6 +15,7 @@ My research focuses on the Foundation Model including the multimodal large langu
 
 Recent News
 ======
+* <span class='emoji'>🔥</span> [June 2026] Awarded the [UW Herbold Fellowship](https://new.expo.uw.edu/expo/scholarships/herbold).
 * <span class='emoji'>🔥</span> [June 2026] Awarded the [Ruby Newhall Memorial Scholarship](https://www.pilotinternational.org/about/scholarships).
 * <span class='emoji'>🔥</span> [May 2026] One work SynMamba is early accepted by [MICCAI 2026](https://conferences.miccai.org/2026/en/).
 * <span class='emoji'>🔥</span> [Apr 2026] We are calling for the submission of topic [_"Clinical Neuroinformatics: AI-Powered Precision Medicine for the Brain"_](https://www.frontiersin.org/research-topics/73772/clinical-neuroinformatics-ai-powered-precision-medicine-for-the-brain). Submission Deadline: 12 October, 2026
