@@ -56,6 +56,7 @@ Service and leadership
 
 Honors and Awards
 ======
+* UW Herbold Fellowship (only 5 Recipients) 2026
 * Ruby Newhall Memorial Scholarship 2026
 * UW GPSS Travel Grant 2026
 * UW Conference Presentation Award 2026
