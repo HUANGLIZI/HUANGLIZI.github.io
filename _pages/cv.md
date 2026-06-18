@@ -21,7 +21,7 @@ Work experience
 ======
 * June 2026 - Present: Research Intern. Supervisor: Dr. [Ardavan Saeedi](https://scholar.google.com/citations?user=sNMowOIAAAAJ&hl=en)
   * Optum AI (UnitedHealth Group)
-  * Research: Agentic multimodal AI for Electronic Health Records (EHR) data.
+  * Research: Autonomous Agentic AI for Electronic Health Records (EHR) data.
     
 * June 2025 - May 2026: Research Intern. Supervisor: Dr. [Ali Kamen](https://scholar.google.com/citations?user=j41ocikAAAAJ&hl=en), Dr. [Riqaing Gao](https://scholar.google.com/citations?hl=en&user=VjI_dtUAAAAJ)
   * Siemens Healthineers 
@@ -34,10 +34,6 @@ Work experience
 * Mar 2022 - Aug 2022: Research Intern. Supervisor: Dr. [Le Lu](https://www.cs.jhu.edu/~lelu/), Dr. [Dakai Jin](https://dakjin.github.io/)
   * Alibaba DAMO Academy
   * Research: Multi-modality radiotherapy target volume segmentation and organ segmentation.
- 
-<!-- * May 2021 - Sept 2021: Research Intern. Supervisor: Prof. [Jie Chen](https://scholar.google.com.hk/citations?hl=EN&user=ZAZFfwwAAAAJ) -->
-<!--   * Peking University -->
-<!--   * Research: Hybrid attention mechanism and mix-focal loss improvement.-->
 
 * Aug 2020 - Nov 2020: Research Intern. Supervisor: Prof. [Pietro Liò](https://www.cl.cam.ac.uk/~pl219/)
   * University of Cambridge
@@ -46,6 +42,10 @@ Work experience
 * Aug 2022 - Nov 2022: Visiting Student. Supervisor: Prof. [Alan L. Yuille](https://www.cs.jhu.edu/~ayuille/), Prof. [Yuyin Zhou](https://yuyinzhou.github.io/), Prof. [Cihang Xie](https://cihangxie.github.io/)
   * Johns Hopkins University, University of California Santa Cruz
   * Research: MAE pre-training with the multi-view mechanism in images.
+
+* May 2021 - Sept 2021: Visiting Student. Supervisor: Prof. [Jie Chen](https://scholar.google.com.hk/citations?hl=EN&user=ZAZFfwwAAAAJ)
+  * Peking University
+  * Research: Hybrid attention mechanism and mix-focal loss improvement.
 
 Service and leadership
 ======
@@ -74,8 +74,8 @@ Talks
 * Jan 2026, _A Structured Approach for AI models in multi-modal medical imaging_ at [CDMC@Xiamen University](https://cdmc.xmu.edu.cn/index.htm)
 * Feb 2025, _NLPs, new tools, MIDRC-LOINC mapping and the long-tail problem_ at [MIDRC Seminar](https://www.midrc.org/seminar-series)
 * Dec 2023, _Semi/Self-supervised Learning with Limited Annotations in Medical Image Analysis_ at [CCVL@JHU](https://ccvl.jhu.edu/)
-<!-- * May 2021, at [MIT Blended Learning Program](https://openlearning.mit.edu/courses-programs/mit-xpro) -->
-<!-- * Dec 2020, at [Study Abroad Foundation (SAF) China](https://www.studyabroadfoundation.org/) -->
+* May 2021, _Experience Sharing_ at [MIT Blended Learning Program](https://openlearning.mit.edu/courses-programs/mit-xpro)
+* Dec 2020, _Experience Sharing_ at [Study Abroad Foundation (SAF) China](https://www.studyabroadfoundation.org/)
 
 <!--Teaching
 ======
