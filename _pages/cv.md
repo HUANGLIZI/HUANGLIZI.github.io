@@ -21,7 +21,7 @@ Work experience
 ======
 * June 2026 - Present: Research Intern. Supervisor: Dr. [Ardavan Saeedi](https://scholar.google.com/citations?user=sNMowOIAAAAJ&hl=en)
   * Optum AI (UnitedHealth Group)
-  * Research: Autonomous Agentic AI for Electronic Health Records (EHR) data.
+  * Research: Lagre Language Foundation Model Pretraining and Optimization, with Agentic AI Development.
     
 * June 2025 - May 2026: Research Intern. Supervisor: Dr. [Ali Kamen](https://scholar.google.com/citations?user=j41ocikAAAAJ&hl=en), Dr. [Riqaing Gao](https://scholar.google.com/citations?hl=en&user=VjI_dtUAAAAJ)
   * Siemens Healthineers 
@@ -29,7 +29,7 @@ Work experience
 
 * June 2023 - Sept 2023: Research Intern. Supervisor: Prof. [Yu Qiao](https://scholar.google.com/citations?user=gFtI-8QAAAAJ)
   * Shanghai AI Laboratory
-  * Research: Multimodal Large Language Model (MLLM) for medical image and diagnostic report.
+  * Research: Multimodal Lagre Language Model Pretraining and Supervised Fine-Tuning.
 
 * Mar 2022 - Aug 2022: Research Intern. Supervisor: Dr. [Le Lu](https://www.cs.jhu.edu/~lelu/), Dr. [Dakai Jin](https://dakjin.github.io/)
   * Alibaba DAMO Academy
