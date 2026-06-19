@@ -27,7 +27,7 @@ Work experience
   * Siemens Healthineers 
   * Research: Multimodal Foundation Model for Radiation Treatment Planning.
 
-* June 2023 - Sept 2023: Research Intern. Supervisor: Prof. [Yu Qiao](https://scholar.google.com/citations?user=gFtI-8QAAAAJ)
+* June 2023 - Sept 2023: Research Intern. Supervisor: Prof. [Yu Qiao](https://scholar.google.com/citations?user=gFtI-8QAAAAJ), Dr. [Diping Song](https://openreview.net/profile?id=%7EDiping_Song1)
   * Shanghai AI Laboratory
   * Research: Multimodal Lagre Language Model Pretraining and Supervised Fine-Tuning.
 
