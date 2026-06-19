@@ -21,7 +21,7 @@ Work experience
 ======
 * June 2026 - Present: Research Intern. Supervisor: Dr. [Ardavan Saeedi](https://scholar.google.com/citations?user=sNMowOIAAAAJ&hl=en)
   * Optum AI (UnitedHealth Group)
-  * Research: Lagre Language Foundation Model Pretraining and Optimization, with Agentic AI Development.
+  * Research: LLM Foundation Model Pretraining and Optimization, with Agentic AI Development.
     
 * June 2025 - May 2026: Research Intern. Supervisor: Dr. [Ali Kamen](https://scholar.google.com/citations?user=j41ocikAAAAJ&hl=en), Dr. [Riqaing Gao](https://scholar.google.com/citations?hl=en&user=VjI_dtUAAAAJ)
   * Siemens Healthineers 
