@@ -11,7 +11,7 @@ Hi! I’m Zihan, a third-year Ph.D. student at [University of Washington](https:
 
 My research focuses on the **Pretraining and Optimization of Multimodal Foundation Model**, **Supervised Fine-Tuning and Alignment of Vision-Language Model**, **Autonomous Agentic LLM**, and **Large-scale Data Harmonization**. I am also committed to carrying out quantitative analysis for tissues and organs of the human body and determine treatment planning by combining AI with healthcare data. I am currently a member of the [AAPM-MIDRC](https://www.midrc.org/midrc-team) subcommittee and [MIDRC/CRP-12](https://www.midrc.org/midrc-collaborating-research-projects/project-one-crp12), dedicated to determining medical image data quality, provenance, and harmonization. Open to future collaboration on any interesting project, I'd be delighted to engage in further conversation via Email.
 
-<span style="color:red">I am on the job market and actively seeking research scientist/academic position opportunities starting in Fall 2027!</span>
+<span style="color:red">I am on the job market and actively seeking research scientist/academic position opportunities starting in Summer 2027!</span>
 
 Recent News
 ======
