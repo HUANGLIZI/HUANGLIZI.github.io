@@ -24,7 +24,7 @@ Work experience
   * Research: LLM Foundation Model Pretraining and Optimization, with Agentic AI Development.
     
 * June 2025 - May 2026: Research Intern. Supervisor: Dr. [Ali Kamen](https://scholar.google.com/citations?user=j41ocikAAAAJ&hl=en), Dr. [Riqaing Gao](https://scholar.google.com/citations?hl=en&user=VjI_dtUAAAAJ)
-  * Siemens Healthineers 
+  * Siemens Healthineers (collaborate with Prof.[Jeffrey Bradley](https://scholar.google.com/citations?user=4052TIgAAAAJ&hl=en))
   * Research: Multimodal Foundation Model for Radiation Treatment Planning.
 
 * June 2023 - Sept 2023: Research Intern. Supervisor: Prof. [Yu Qiao](https://scholar.google.com/citations?user=gFtI-8QAAAAJ), Dr. [Diping Song](https://openreview.net/profile?id=%7EDiping_Song1)
