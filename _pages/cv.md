@@ -29,7 +29,7 @@ Work experience
 
 * June 2023 - Sept 2023: Research Intern. Supervisor: Prof. [Yu Qiao](https://scholar.google.com/citations?user=gFtI-8QAAAAJ), Dr. [Diping Song](https://openreview.net/profile?id=%7EDiping_Song1)
   * Shanghai AI Laboratory
-  * Research: Multimodal Lagre Language Model Pretraining and Supervised Fine-Tuning.
+  * Research: Multimodal Large Language Model Pretraining and Supervised Fine-Tuning.
 
 * Mar 2022 - Aug 2022: Research Intern. Supervisor: Dr. [Le Lu](https://www.cs.jhu.edu/~lelu/), Dr. [Dakai Jin](https://dakjin.github.io/)
   * Alibaba DAMO Academy
