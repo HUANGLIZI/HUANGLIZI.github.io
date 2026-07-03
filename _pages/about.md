@@ -15,6 +15,7 @@ My research focuses on the **Pretraining and Optimization of Multimodal Foundati
 
 Recent News
 ======
+* <span class='emoji'>🔥</span> [July 2026] Our work [CTransNet](https://github.com/HUANGLIZI/CTransNet) is accepted by [The Lancet Digital Health](https://www.thelancet.com/journals/landig/home)!
 * <span class='emoji'>🔥</span> [June 2026] Awarded the [UW Herbold Fellowship](https://new.expo.uw.edu/expo/scholarships/herbold) (only 5 Recipients).
 * <span class='emoji'>🔥</span> [June 2026] Awarded the [Ruby Newhall Memorial Scholarship](https://www.pilotinternational.org/about/scholarships).
 * <span class='emoji'>🔥</span> [May 2026] One work SynMamba is early accepted by [MICCAI 2026](https://conferences.miccai.org/2026/en/).
