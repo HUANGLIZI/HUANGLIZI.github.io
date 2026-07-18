@@ -9,6 +9,13 @@ author_profile: true
 {% endif %}
 You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?hl=en&user=KoY6bW8AAAAJ) or [Semantic Scholar](https://www.semanticscholar.org/author/Zihan-Li/2118273929) profile.
 
+**Selected Publications**
+* **Zihan Li**, Taojun Zhang, ... & Paul E. Kinahan, Zhenhui Li, Guoxin Li, Yuming Jiang. Multimodal Multitask Deep Learning for Predicting Tertiary Lymphoid Structures and Peritoneal Recurrence in Gastric Cancer: A Multicenter Study. The Lancet Digital Health (2026). [In Press](https://github.com/HUANGLIZI/CTransNet) <font color="red">Multimodal Foundation Model (5-Year IF: 29.8)</font>
+* **Zihan Li**, Diping Song, Zefeng Yang, Deming Wang, Fei Li, Xiulan Zhang, Paul E. Kinahan, Yu Qiao. VisionUnite: A Vision-Language Foundation Model for Ophthalmology Enhanced with Clinical Knowledge. IEEE Transactions on Pattern Analysis and Machine Intelligence (2025). [Paper](https://arxiv.org/abs/2408.02865) <font color="red">Multimodal Large Language Model (5-Year IF: 22.6)</font>
+* **Zihan Li**, Yuan Zheng, Dandan Shan, Shuzhou Yang, Qingde Li, Beizhan Wang, Yuanting Zhang, Qingqi Hong, Dinggang Shen. ScribFormer: Transformer Makes CNN Work Better for Scribble-based Medical Image Segmentation. IEEE Transactions on Medical Imaging (2024). [Paper](https://arxiv.org/abs/2402.02029) <font color="red">Weakly Supervised Leaning (5-Year IF: 12.3, ESI Highly Cited Paper)</font>
+* **Zihan Li**, Yunxiang Li, Qingde Li, Puyang Wang, Dazhou Guo, Le Lu, Dakai Jin, et al. LViT: language meets vision transformer in medical image segmentation. IEEE Transactions on Medical Imaging (2023). [Paper](https://arxiv.org/abs/2206.14718) <font color="red">Vision-Language Model (5-Year IF: 12.3, ESI Highly Cited Paper)</font>
+* **Zihan Li**, Yiqing Wang, Sina Farsiu, Paul Kinahan. Boosting Medical Visual Understanding From Multi-Granular Language Learning. ICLR 2026. [Paper](https://arxiv.org/abs/2511.15943) <font color="red">Multimodal Foundation Model</font>
+
 **2026**
 * [J1] **Zihan Li**, Taojun Zhang, ... & Paul E. Kinahan, Zhenhui Li, Guoxin Li, Yuming Jiang. Multimodal Multitask Deep Learning for Predicting Tertiary Lymphoid Structures and Peritoneal Recurrence in Gastric Cancer: A Multicenter Study. The Lancet Digital Health (2026). [In Press](https://github.com/HUANGLIZI/CTransNet) <font color="red">Multimodal Foundation Model</font>
 * [C1] **Zihan Li**, Yiqing Wang, Sina Farsiu, Paul Kinahan. Boosting Medical Visual Understanding From Multi-Granular Language Learning. ICLR 2026. [Paper](https://arxiv.org/abs/2511.15943) <font color="red">Multimodal Foundation Model</font>
