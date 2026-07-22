@@ -7,6 +7,7 @@ redirect_from:
 ---
 <!-- title: "CV" -->
 {% include base_path %}
+You can also find my complete resume [here](https://drive.google.com/file/d/1IcnUMrEMZF5JCGU87E34Bb5lMIXzVbM9/view?usp=sharing).
 
 Education
 ======
