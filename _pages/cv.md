@@ -24,11 +24,11 @@ Work experience
   * Optum AI (UnitedHealth Group)
   * Research: LLM Foundation Model Pretraining and Optimization, with Agentic AI Post-Training.
     
-* June 2025 - May 2026: Research Intern. Supervisor: Dr. [Ali Kamen](https://scholar.google.com/citations?user=j41ocikAAAAJ&hl=en), Dr. [Riqaing Gao](https://scholar.google.com/citations?hl=en&user=VjI_dtUAAAAJ)
+* June 2025 - May 2026: Research Intern. Supervisor: Dr. [Ali Kamen](https://scholar.google.com/citations?user=j41ocikAAAAJ&hl=en)
   * Siemens Healthineers (collaborated with Prof. [Jeffrey Bradley](https://scholar.google.com/citations?user=4052TIgAAAAJ&hl=en))
   * Research: Multimodal Foundation Model for Radiation Treatment Planning.
 
-* June 2023 - Sept 2023: Research Intern. Supervisor: Prof. [Yu Qiao](https://scholar.google.com/citations?user=gFtI-8QAAAAJ), Dr. [Diping Song](https://openreview.net/profile?id=%7EDiping_Song1)
+* June 2023 - Sept 2023: Research Intern. Supervisor: Prof. [Yu Qiao](https://scholar.google.com/citations?user=gFtI-8QAAAAJ)
   * Shanghai AI Laboratory
   * Research: Multimodal Large Language Model Pretraining and Supervised Fine-Tuning.
 
@@ -40,7 +40,7 @@ Work experience
   * University of Cambridge
   * Research: Automatic segmentation and detection model for pulmonary infection in X-ray images.
 
-* Aug 2022 - Nov 2022: Visiting Student. Supervisor: Prof. [Alan L. Yuille](https://www.cs.jhu.edu/~ayuille/), Prof. [Yuyin Zhou](https://yuyinzhou.github.io/), Prof. [Cihang Xie](https://cihangxie.github.io/)
+* Aug 2022 - Nov 2022: Visiting Student. Supervisor: Prof. [Alan L. Yuille](https://www.cs.jhu.edu/~ayuille/)
   * Johns Hopkins University, University of California Santa Cruz
   * Research: MAE pre-training with the multi-view mechanism in images.
 
