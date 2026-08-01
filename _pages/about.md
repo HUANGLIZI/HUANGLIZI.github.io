@@ -69,13 +69,3 @@ I am pursuing my Ph.D. degree from [University of Washington](https://www.washin
         <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=2JmOP3bkk821lwNmCmDWh0lwDsiPbYxAIv_LbY77M4A&cl=ffffff&w=a"></script>
     </div>
 </div>
-
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-7DTCB6GBQE"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-7DTCB6GBQE');
-</script>
