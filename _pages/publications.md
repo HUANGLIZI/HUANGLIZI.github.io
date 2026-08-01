@@ -47,3 +47,13 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 
 **Patent**
 * [P1] Qingqi Hong, Junfeng Yao, Dihan Li, **Zihan Li**. Medical image segmentation method and system based on semi-supervision and Transformers. 2022. CN Patent, CN114882047B. 
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-7DTCB6GBQE"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-7DTCB6GBQE');
+</script>
