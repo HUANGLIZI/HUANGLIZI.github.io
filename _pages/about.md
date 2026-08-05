@@ -15,6 +15,7 @@ My research focuses on the **Pretraining and Optimization of Multimodal Foundati
 
 Recent News
 ======
+* <span class='emoji'>🔥</span> [Aug 2026] One [paper](https://link.springer.com/article/10.1186/s12886-026-05175-z) is accepted by [BMC Ophthalmology](https://link.springer.com/journal/12886).
 * <span class='emoji'>🔥</span> [July 2026] Our agentic AI work [OPERA](https://github.com/HUANGLIZI/OPERA) is accepted by [ACM MM 2026](https://2026.acmmm.org/).
 * <span class='emoji'>🔥</span> [July 2026] Our Multimodal Foundation Model work [CTransNet](https://github.com/HUANGLIZI/CTransNet) is accepted by [The Lancet Digital Health](https://www.thelancet.com/journals/landig/home) (5-Year IF: 29.8)!
 * <span class='emoji'>🔥</span> [June 2026] Awarded the [UW Herbold Fellowship](https://new.expo.uw.edu/expo/scholarships/herbold) (only 5 Recipients).
@@ -28,7 +29,7 @@ Recent News
 * <span class='emoji'>🔥</span> [Dec 2025] Awarded the [Gold-level Top Reviewer](https://ieeetmi.org/certificates-2025/) for IEEE TMI.
 * <span class='emoji'>🔥</span> [Nov 2025] Our work [SASNet](https://www.sciencedirect.com/science/article/pii/S0031320325014062) is accepted by [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition).
 * <span class='emoji'>🔥</span> [Oct 2025] Our work is accepted by [SPIE MI 2026](https://spie.org/MI26/conferencedetails/imaging-informatics) as [Oral Presentation](https://spie.org/medical-imaging/presentation/Largescale-data-harmonization-of-radiology-studies-via-multigranular-visionlanguage-alignment/13930-26).
-* <span class='emoji'>🔥</span> [Aug 2025] Our work [VisionUnite](https://arxiv.org/abs/2408.02865) is accepted by [IEEE TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34).
+* [Aug 2025] Our work [VisionUnite](https://arxiv.org/abs/2408.02865) is accepted by [IEEE TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34).
 * [May 2025] Our work [STPNet](https://arxiv.org/abs/2504.01561) is accepted by [IEEE TIP](https://ieeexplore.ieee.org/xpl/topAccessedArticles.jsp?punumber=83).
 * [Mar 2025] Awarded the [Mortar Board Alumni/Tolo Foundation’s Ayers Scholarship](https://www.mortarboardtolo.org/about/).
 * [Jan 2025] One abstract is accepted by SIIM 2025 as [Oral Presentation](https://annualmeeting.siim.org/wp-content/uploads/2025/04/Multi-stage-Multimodal-Deep-Learning-Zihan-Li.pdf).
