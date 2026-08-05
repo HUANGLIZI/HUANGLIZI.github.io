@@ -12,7 +12,7 @@ You can also find my complete resume [here](https://drive.google.com/file/d/1KJp
 Education
 ======
 * Ph.D. in Bioengineering: Data Science, University of Washington, 2023-present
-  * Supervisor: Prof. [Paul Kinahan](https://scholar.google.com/citations?user=XXXSsTkAAAAJ), UW Medicine and UW College of Engineering, [Imaging Research Lab](http://depts.washington.edu/imreslab/)
+  * Supervisor: Prof. [Paul Kinahan](https://scholar.google.com/citations?user=XXXSsTkAAAAJ), UW College of Engineering and UW Medicine, [Imaging Research Lab](http://depts.washington.edu/imreslab/)
   * Doctoral Supervisor Committee: Prof. [Patrick Boyle](https://bioe.uw.edu/portfolio-items/patrick-m-boyle/), Prof. [David Haynor](https://rad.uw.edu/people/haynor), Prof. [Sheng Wang](https://homes.cs.washington.edu/~swang/)
   * Research: Foundation Model and AI-Driven Data Harmonization.
 * Master in Computer Science, University of Illinois at Urbana-Champaign, 2022-2023
