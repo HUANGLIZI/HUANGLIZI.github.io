@@ -7,7 +7,7 @@ author_profile: true
 {% include base_path %}
 {% if author.googlescholar %}
 {% endif %}
-You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?hl=en&user=KoY6bW8AAAAJ) or [Semantic Scholar](https://www.semanticscholar.org/author/Zihan-Li/2118273929) profile.
+You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?hl=en&user=KoY6bW8AAAAJ) profile.
 
 **Selected Publications**
 * **Zihan Li**, Taojun Zhang, ... & Paul E. Kinahan, Zhenhui Li, Guoxin Li, Yuming Jiang. Multimodal Multitask Deep Learning for Predicting Tertiary Lymphoid Structures and Peritoneal Recurrence in Gastric Cancer: A Multicenter Study. The Lancet Digital Health (2026). [In Press](https://github.com/HUANGLIZI/CTransNet) <font color="red">Multimodal Foundation Model (5-Year IF: 29.8)</font>
