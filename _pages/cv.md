@@ -34,7 +34,7 @@ Work experience
 
 * Mar 2022 - Aug 2022: Research Intern. Supervisor: Dr. [Le Lu](https://www.cs.jhu.edu/~lelu/), Dr. [Dakai Jin](https://dakjin.github.io/)
   * Alibaba DAMO Academy
-  * Research: Multimodal radiotherapy target volume segmentation and text-guided organ segmentation.
+  * Research:Text-guided 3D Multimodal Model.
 
 * Aug 2020 - Nov 2020: Research Intern. Supervisor: Prof. [Pietro Liò](https://www.cl.cam.ac.uk/~pl219/)
   * University of Cambridge
