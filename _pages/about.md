@@ -15,7 +15,7 @@ My research focuses on the **Pretraining and Optimization of Multimodal Foundati
 
 Recent News
 ======
-* <span class='emoji'>🔥</span> [Aug 2026] One [paper](https://www.sciencedirect.com/science/article/pii/S036030162604143X) is accepted by [International Journal of Radiation Oncology\*Biology\*Physics](https://www.sciencedirect.com/journal/international-journal-of-radiation-oncology-biology-physics).
+* <span class='emoji'>🔥</span> [Aug 2026] One [paper](https://www.sciencedirect.com/science/article/pii/S036030162604143X) is accepted by [International Journal of Radiation Oncology\*Biology\*Physics](https://www.sciencedirect.com/journal/international-journal-of-radiation-oncology-biology-physics)(Red Journal in Radiotherapy).
 * <span class='emoji'>🔥</span> [Aug 2026] One [paper](https://link.springer.com/article/10.1186/s12886-026-05175-z) is accepted by [BMC Ophthalmology](https://link.springer.com/journal/12886).
 * <span class='emoji'>🔥</span> [July 2026] Our agentic AI work [OPERA](https://github.com/HUANGLIZI/OPERA) is accepted by [ACM MM 2026](https://2026.acmmm.org/).
 * <span class='emoji'>🔥</span> [July 2026] Our Multimodal Foundation Model work [CTransNet](https://github.com/HUANGLIZI/CTransNet) is accepted by [The Lancet Digital Health](https://www.thelancet.com/journals/landig/home) (5-Year IF: 29.8)!
