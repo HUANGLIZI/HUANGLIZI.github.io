@@ -67,7 +67,7 @@ I am pursuing my Ph.D. degree from [University of Washington](https://www.washin
          Visitors
     </div>
 </div>
-    <div class="visitor-section">
+     <div align="center" style="width:30%">
         <div class="visitor-map">
             <!-- MapMyVisitors (formerly ClustrMaps): accumulating world map of all
                  visitors. Tuned for clarity: large/wide map, bright teal land,
