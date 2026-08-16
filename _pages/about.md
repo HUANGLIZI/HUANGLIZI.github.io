@@ -58,16 +58,7 @@ My background and history
 I am pursuing my Ph.D. degree from [University of Washington](https://www.washington.edu/) and I received Master Degree from [University of Illinois at Urbana-Champaign (UIUC)](https://illinois.edu/) and received Bachelor Degree from [Xiamen University](https://en.xmu.edu.cn).
 
 <footer>
-    <div class="visitor-section">
-        <div class="visitor-map">
-            <!-- MapMyVisitors (formerly ClustrMaps): accumulating world map of all
-                 visitors. Tuned for clarity: large/wide map, bright teal land,
-                 and high-contrast markers (orange = returning, red = new). -->
-            <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=300&t=n&d=2JmOP3bkk821lwNmCmDWh0lwDsiPbYxAIv_LbY77M4A&co=bbc8d1&cmn=e5b4b4&cmo=edd4d4'></script>
-        </div>
-        <p class="footer-note">Last updated: August 2026</p>
-    </div>
-<div align="center">
+  <div align="center">
     <div align="center">
         This Site Already Has  
             <small><a href="https://www.easycounter.com/">
@@ -76,6 +67,15 @@ I am pursuing my Ph.D. degree from [University of Washington](https://www.washin
          Visitors
     </div>
 </div>
+    <div class="visitor-section">
+        <div class="visitor-map">
+            <!-- MapMyVisitors (formerly ClustrMaps): accumulating world map of all
+                 visitors. Tuned for clarity: large/wide map, bright teal land,
+                 and high-contrast markers (orange = returning, red = new). -->
+            <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=t&d=2JmOP3bkk821lwNmCmDWh0lwDsiPbYxAIv_LbY77M4A&co=9da2a5&cmo=c99e9e&cmn=84aa84'></script>
+        </div>
+        <p class="footer-note">Last updated: August 2026</p>
+    </div>
 </footer>
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-7DTCB6GBQE"></script>
