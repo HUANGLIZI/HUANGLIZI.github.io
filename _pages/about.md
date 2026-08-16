@@ -57,7 +57,7 @@ My background and history
 ======
 I am pursuing my Ph.D. degree from [University of Washington](https://www.washington.edu/) and I received Master Degree from [University of Illinois at Urbana-Champaign (UIUC)](https://illinois.edu/) and received Bachelor Degree from [Xiamen University](https://en.xmu.edu.cn).
 
-  <div align="center">
+<div align="center">
     <div align="center">
         This Site Already Has  
             <small><a href="https://www.easycounter.com/">
@@ -65,15 +65,10 @@ I am pursuing my Ph.D. degree from [University of Washington](https://www.washin
             border="0" alt="stats counter"></a></small> 
          Visitors
     </div>
-</div>
-     <div align="center" style="width:30%">
-        <div class="center">
-            <!-- MapMyVisitors (formerly ClustrMaps): accumulating world map of all
-                 visitors. Tuned for clarity: large/wide map, bright teal land,
-                 and high-contrast markers (orange = returning, red = new). -->
+    <div class="center" style="width:30%">
             <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=t&d=2JmOP3bkk821lwNmCmDWh0lwDsiPbYxAIv_LbY77M4A&co=9da2a5&cmo=c99e9e&cmn=84aa84'></script>
-        </div>
     </div>
+</div>
     
 <footer>
   <p class="footer-note">Last updated: August 2026</p>
