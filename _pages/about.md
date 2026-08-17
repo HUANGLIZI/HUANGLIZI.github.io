@@ -65,13 +65,13 @@ I am pursuing my Ph.D. degree from [University of Washington](https://www.washin
             border="0" alt="stats counter"></a></small> 
          Visitors
     </div>
-    <div class="center" style="width:30%">
+    <div class="center" style="width:40%">
             <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=t&d=2JmOP3bkk821lwNmCmDWh0lwDsiPbYxAIv_LbY77M4A&co=9da2a5&cmo=c99e9e&cmn=84aa84'></script>
     </div>
 </div>
     
 <footer>
-  <p class="footer-note">Last updated: August 2026</p>
+  <p class="footer-note" style="font-size: 10px; color: #888888;">Last updated: August 2026</p>
 </footer>
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-7DTCB6GBQE"></script>
